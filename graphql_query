@@ -1,0 +1,9 @@
+{
+	query {
+		repository(name:"twitter-node", owner:"technoweenie"){
+			createdAt
+			pushedAt
+			updatedAt
+		}
+	}
+}
