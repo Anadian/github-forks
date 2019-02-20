@@ -1,0 +1,2787 @@
+[
+	{
+		"username": "technoweenie",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-01-16T19:08:42Z\",\"pushedAt\":\"2015-04-19T18:12:48Z\",\"updatedAt\":\"2019-01-29T02:58:11Z\"}}}"
+	},
+	{
+		"username": "abrkn",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-05T14:01:49Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2013-01-12T02:59:11Z\"}}}"
+	},
+	{
+		"username": "alexgb",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-06-28T15:51:47Z\",\"pushedAt\":\"2011-06-28T16:11:07Z\",\"updatedAt\":\"2013-01-03T19:05:37Z\"}}}"
+	},
+	{
+		"username": "anthonywebb",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-03-14T15:20:04Z\",\"pushedAt\":\"2012-03-14T15:51:14Z\",\"updatedAt\":\"2013-01-08T05:26:13Z\"}}}"
+	},
+	{
+		"username": "aonic",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-02T05:47:58Z\",\"pushedAt\":\"2011-09-30T20:20:07Z\",\"updatedAt\":\"2013-01-04T08:44:14Z\"}}}"
+	},
+	{
+		"username": "Augustinho",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-13T04:27:48Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2014-08-10T00:15:31Z\"}}}"
+	},
+	{
+		"username": "beshkenadze",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-06-02T07:23:07Z\",\"pushedAt\":\"2010-04-29T21:22:26Z\",\"updatedAt\":\"2012-12-14T17:58:24Z\"}}}"
+	},
+	{
+		"username": "canassa",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-06T04:02:59Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2014-02-26T20:02:35Z\"}}}"
+	},
+	{
+		"username": "charles-cai",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-08-28T19:53:22Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2013-01-04T03:28:57Z\"}}}"
+	},
+	{
+		"username": "cj",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-05-28T02:53:51Z\",\"pushedAt\":\"2010-04-29T21:22:26Z\",\"updatedAt\":\"2014-02-16T04:08:52Z\"}}}"
+	},
+	{
+		"username": "danfreak",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-28T22:29:37Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2013-01-04T08:11:19Z\"}}}"
+	},
+	{
+		"username": "ddohnggo",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-07T00:31:36Z\",\"pushedAt\":\"2011-10-07T00:27:11Z\",\"updatedAt\":\"2013-01-04T09:40:59Z\"}}}"
+	},
+	{
+		"username": "digitaljerry",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-11T19:58:26Z\",\"pushedAt\":\"2011-12-11T20:02:31Z\",\"updatedAt\":\"2013-01-04T20:50:20Z\"}}}"
+	},
+	{
+		"username": "dineshkummarc",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-27T13:04:24Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2013-01-11T23:42:04Z\"}}}"
+	},
+	{
+		"username": "dmongeau",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-05T02:47:50Z\",\"pushedAt\":\"2011-10-02T13:24:46Z\",\"updatedAt\":\"2013-01-04T09:17:07Z\"}}}"
+	},
+	{
+		"username": "dustin10",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-28T20:49:08Z\",\"pushedAt\":\"2011-10-02T05:44:29Z\",\"updatedAt\":\"2013-01-04T08:10:22Z\"}}}"
+	},
+	{
+		"username": "felipealfonsog",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-10-01T18:29:17Z\",\"pushedAt\":\"2015-04-19T18:12:48Z\",\"updatedAt\":\"2018-10-01T18:29:20Z\"}}}"
+	},
+	{
+		"username": "gangster",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-02-22T12:34:49Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2012-12-24T20:26:04Z\"}}}"
+	},
+	{
+		"username": "gilesbowkett",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-11-10T05:18:14Z\",\"pushedAt\":\"2010-08-31T04:07:10Z\",\"updatedAt\":\"2014-02-20T03:57:24Z\"}}}"
+	},
+	{
+		"username": "goodwillhacking",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-15T20:52:12Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2014-03-23T18:32:19Z\"}}}"
+	},
+	{
+		"username": "greenyDeath",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-17T14:29:26Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-07T21:54:42Z\"}}}"
+	},
+	{
+		"username": "gschier",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-02-13T08:29:10Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2014-02-13T08:29:12Z\"}}}"
+	},
+	{
+		"username": "guanix",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-01-31T06:01:22Z\",\"pushedAt\":\"2010-01-27T23:42:17Z\",\"updatedAt\":\"2012-12-13T22:37:14Z\"}}}"
+	},
+	{
+		"username": "Erls-Corporation",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-05-29T05:09:19Z\",\"pushedAt\":\"2010-01-27T23:42:17Z\",\"updatedAt\":\"2013-01-09T09:53:18Z\"}}}"
+	},
+	{
+		"username": "hackerway",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-17T20:06:05Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2014-08-10T00:15:31Z\"}}}"
+	},
+	{
+		"username": "icez",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-02T06:55:36Z\",\"pushedAt\":\"2011-11-02T07:09:09Z\",\"updatedAt\":\"2017-07-06T11:14:43Z\"}}}"
+	},
+	{
+		"username": "jaehess",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-02-23T21:52:40Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2012-12-24T20:42:51Z\"}}}"
+	},
+	{
+		"username": "Jarod-stewart",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-07-01T17:33:38Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2013-01-10T22:13:36Z\"}}}"
+	},
+	{
+		"username": "jc1arke",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-04-16T10:46:28Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2013-01-01T21:58:40Z\"}}}"
+	},
+	{
+		"username": "jdub",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-08-29T19:23:53Z\",\"pushedAt\":\"2018-08-25T09:20:46Z\",\"updatedAt\":\"2019-01-27T09:21:44Z\"}}}"
+	},
+	{
+		"username": "aiex",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-07T09:19:21Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-11-07T09:19:21Z\"}}}"
+	},
+	{
+		"username": "akoenig",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-12-03T22:38:55Z\",\"pushedAt\":\"2012-12-04T00:11:49Z\",\"updatedAt\":\"2013-01-13T11:53:20Z\"}}}"
+	},
+	{
+		"username": "alexiskattan",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-06T07:50:20Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-01-13T23:30:24Z\"}}}"
+	},
+	{
+		"username": "amolc",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-21T12:57:21Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-12-21T12:57:23Z\"}}}"
+	},
+	{
+		"username": "athiwatp",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-01-09T10:20:54Z\",\"pushedAt\":\"2015-04-19T18:13:55Z\",\"updatedAt\":\"2017-01-09T10:20:57Z\"}}}"
+	},
+	{
+		"username": "AvianFlu",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-05-29T17:39:41Z\",\"pushedAt\":\"2018-04-24T01:06:24Z\",\"updatedAt\":\"2019-02-18T11:24:55Z\"}}}"
+	},
+	{
+		"username": "11TT",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-20T05:06:57Z\",\"pushedAt\":\"2013-06-20T05:34:53Z\",\"updatedAt\":\"2013-06-20T05:52:42Z\"}}}"
+	},
+	{
+		"username": "140proof",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-12T00:19:24Z\",\"pushedAt\":\"2013-06-12T00:59:45Z\",\"updatedAt\":\"2013-06-12T00:59:45Z\"}}}"
+	},
+	{
+		"username": "abpin",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-10T04:20:29Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-08-10T04:20:31Z\"}}}"
+	},
+	{
+		"username": "adrianamorales",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-05T02:14:06Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-03-05T04:30:20Z\"}}}"
+	},
+	{
+		"username": "ahinni",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-16T20:56:20Z\",\"pushedAt\":\"2013-01-31T07:00:50Z\",\"updatedAt\":\"2013-06-26T21:48:14Z\"}}}"
+	},
+	{
+		"username": "NHQ",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-29T08:13:48Z\",\"pushedAt\":\"2012-02-23T21:34:31Z\",\"updatedAt\":\"2013-01-08T01:12:37Z\"}}}"
+	},
+	{
+		"username": "randy909",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-26T21:48:14Z\",\"pushedAt\":\"2013-06-26T22:14:33Z\",\"updatedAt\":\"2013-06-26T22:14:33Z\"}}}"
+	},
+	{
+		"username": "ajschumacher",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-01T15:31:58Z\",\"pushedAt\":\"2014-03-01T15:43:01Z\",\"updatedAt\":\"2014-03-01T15:48:26Z\"}}}"
+	},
+	{
+		"username": "santiperez",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-04-01T07:57:48Z\",\"pushedAt\":\"2015-12-22T10:50:24Z\",\"updatedAt\":\"2015-12-22T10:50:26Z\"}}}"
+	},
+	{
+		"username": "drpicox",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-04-03T14:02:52Z\",\"pushedAt\":\"2014-03-01T15:43:01Z\",\"updatedAt\":\"2014-04-03T14:02:53Z\"}}}"
+	},
+	{
+		"username": "alexahn",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-14T18:31:22Z\",\"pushedAt\":\"2013-06-06T19:31:43Z\",\"updatedAt\":\"2014-01-31T01:02:38Z\"}}}"
+	},
+	{
+		"username": "denimandsteel",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-03T18:27:51Z\",\"pushedAt\":\"2012-10-05T04:02:03Z\",\"updatedAt\":\"2013-01-12T12:50:43Z\"}}}"
+	},
+	{
+		"username": "wei-to",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-25T22:46:57Z\",\"pushedAt\":\"2012-12-08T06:01:26Z\",\"updatedAt\":\"2013-01-12T20:22:42Z\"}}}"
+	},
+	{
+		"username": "FuseDigitalMedia",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-26T22:32:10Z\",\"pushedAt\":\"2013-06-06T19:31:43Z\",\"updatedAt\":\"2014-01-31T01:02:38Z\"}}}"
+	},
+	{
+		"username": "lodexinc",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-12-14T23:44:10Z\",\"pushedAt\":\"2013-06-06T19:31:43Z\",\"updatedAt\":\"2016-12-14T23:44:12Z\"}}}"
+	},
+	{
+		"username": "anzomtx",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-04-20T01:51:42Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-04-20T01:51:43Z\"}}}"
+	},
+	{
+		"username": "Applifier",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-29T14:18:39Z\",\"pushedAt\":\"2012-11-29T14:19:56Z\",\"updatedAt\":\"2013-01-13T10:12:15Z\"}}}"
+	},
+	{
+		"username": "ArkeologeN",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-02T12:38:15Z\",\"pushedAt\":\"2014-01-03T20:42:21Z\",\"updatedAt\":\"2014-01-03T20:43:11Z\"}}}"
+	},
+	{
+		"username": "AudienseCo",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-31T11:04:56Z\",\"pushedAt\":\"2018-07-17T10:44:29Z\",\"updatedAt\":\"2018-07-17T10:44:28Z\"}}}"
+	},
+	{
+		"username": "IvanGuardado",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-12-07T17:23:12Z\",\"pushedAt\":\"2015-12-07T17:31:28Z\",\"updatedAt\":\"2015-12-07T17:23:12Z\"}}}"
+	},
+	{
+		"username": "jamiefifty",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-25T07:52:50Z\",\"pushedAt\":\"2015-12-07T18:05:08Z\",\"updatedAt\":\"2016-01-25T07:52:51Z\"}}}"
+	},
+	{
+		"username": "karliky",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-07T11:55:44Z\",\"pushedAt\":\"2015-01-07T11:58:51Z\",\"updatedAt\":\"2015-01-07T11:55:44Z\"}}}"
+	},
+	{
+		"username": "benfoxall",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-21T07:26:37Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-03-21T07:26:38Z\"}}}"
+	},
+	{
+		"username": "blastseld",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-11T22:53:06Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-12-11T22:53:06Z\"}}}"
+	},
+	{
+		"username": "boatmeme",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-05T02:00:11Z\",\"pushedAt\":\"2011-10-05T02:07:13Z\",\"updatedAt\":\"2013-01-04T09:16:46Z\"}}}"
+	},
+	{
+		"username": "bobrik",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-30T09:33:36Z\",\"pushedAt\":\"2011-11-01T15:43:15Z\",\"updatedAt\":\"2013-01-04T13:05:40Z\"}}}"
+	},
+	{
+		"username": "boy-code-it",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-08T18:53:18Z\",\"pushedAt\":\"2016-03-24T14:50:38Z\",\"updatedAt\":\"2016-05-08T18:53:18Z\"}}}"
+	},
+	{
+		"username": "carlos8f",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-07-16T19:37:28Z\",\"pushedAt\":\"2012-07-05T18:13:09Z\",\"updatedAt\":\"2013-01-11T06:03:12Z\"}}}"
+	},
+	{
+		"username": "carlspierre",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-02-15T19:49:27Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-02-15T19:49:27Z\"}}}"
+	},
+	{
+		"username": "cesaregb",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-08-06T21:43:37Z\",\"pushedAt\":\"2015-05-31T19:23:21Z\",\"updatedAt\":\"2015-04-25T19:31:34Z\"}}}"
+	},
+	{
+		"username": "chaddy81",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-24T20:05:21Z\",\"pushedAt\":\"2013-06-24T20:45:22Z\",\"updatedAt\":\"2013-10-31T17:04:15Z\"}}}"
+	},
+	{
+		"username": "chbrown",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-04T00:26:46Z\",\"pushedAt\":\"2012-11-04T01:14:17Z\",\"updatedAt\":\"2013-01-12T23:20:53Z\"}}}"
+	},
+	{
+		"username": "chinmoym2004",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-31T10:42:41Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-07-31T10:43:53Z\"}}}"
+	},
+	{
+		"username": "ChrisRicca",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-04-14T18:53:56Z\",\"pushedAt\":\"2012-04-15T14:54:23Z\",\"updatedAt\":\"2013-01-08T17:22:46Z\"}}}"
+	},
+	{
+		"username": "ciruz",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-08-29T17:53:12Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-08-28T18:52:59Z\"}}}"
+	},
+	{
+		"username": "clemsos",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-10T07:43:04Z\",\"pushedAt\":\"2012-09-10T07:46:43Z\",\"updatedAt\":\"2013-01-12T04:30:10Z\"}}}"
+	},
+	{
+		"username": "clintandrewhall",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-13T02:02:42Z\",\"pushedAt\":\"2011-09-13T02:28:02Z\",\"updatedAt\":\"2013-01-04T05:34:02Z\"}}}"
+	},
+	{
+		"username": "Bulk0815",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-13T19:07:38Z\",\"pushedAt\":\"2011-09-13T02:28:02Z\",\"updatedAt\":\"2015-09-13T19:07:38Z\"}}}"
+	},
+	{
+		"username": "coleGillespie",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-02T21:22:01Z\",\"pushedAt\":\"2011-10-21T16:12:55Z\",\"updatedAt\":\"2013-12-31T04:35:42Z\"}}}"
+	},
+	{
+		"username": "Connectly",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-10T01:44:49Z\",\"pushedAt\":\"2014-04-02T05:01:48Z\",\"updatedAt\":\"2014-04-02T05:01:48Z\"}}}"
+	},
+	{
+		"username": "ConnorLamb",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-29T20:55:14Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-11-29T20:55:15Z\"}}}"
+	},
+	{
+		"username": "cotapon",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-05T12:30:05Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-12T23:48:45Z\"}}}"
+	},
+	{
+		"username": "CrabBot",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-07T22:32:17Z\",\"pushedAt\":\"2012-08-07T22:35:35Z\",\"updatedAt\":\"2013-01-11T15:42:06Z\"}}}"
+	},
+	{
+		"username": "creatovisguru",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-05T22:40:01Z\",\"pushedAt\":\"2013-01-05T22:49:17Z\",\"updatedAt\":\"2013-01-13T23:24:10Z\"}}}"
+	},
+	{
+		"username": "anthrax3",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-03-05T12:10:23Z\",\"pushedAt\":\"2013-01-05T22:49:17Z\",\"updatedAt\":\"2018-03-05T12:10:24Z\"}}}"
+	},
+	{
+		"username": "crscastillo",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-22T16:04:57Z\",\"pushedAt\":\"2013-08-22T16:07:17Z\",\"updatedAt\":\"2013-12-01T11:25:35Z\"}}}"
+	},
+	{
+		"username": "csrx",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-13T23:50:15Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-01-13T23:50:16Z\"}}}"
+	},
+	{
+		"username": "CultivateStudios",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-25T14:08:48Z\",\"pushedAt\":\"2013-04-25T14:28:09Z\",\"updatedAt\":\"2013-04-25T14:28:10Z\"}}}"
+	},
+	{
+		"username": "dak",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-09T01:54:33Z\",\"pushedAt\":\"2012-06-09T01:55:04Z\",\"updatedAt\":\"2013-10-14T15:42:12Z\"}}}"
+	},
+	{
+		"username": "datumlogic",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-23T20:28:08Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-11-23T20:28:08Z\"}}}"
+	},
+	{
+		"username": "DCRussell89",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-12T05:12:24Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-06-12T05:12:25Z\"}}}"
+	},
+	{
+		"username": "denji",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-02T18:58:38Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-04-02T18:58:38Z\"}}}"
+	},
+	{
+		"username": "Dev-Dipesh",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-25T18:09:59Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-03-25T18:09:59Z\"}}}"
+	},
+	{
+		"username": "Dinesh-Ramakrishnan",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-12T17:11:02Z\",\"pushedAt\":\"2012-05-14T20:01:36Z\",\"updatedAt\":\"2013-01-09T15:45:14Z\"}}}"
+	},
+	{
+		"username": "DiyahM",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-09T21:48:42Z\",\"pushedAt\":\"2013-06-19T02:26:56Z\",\"updatedAt\":\"2013-06-19T02:26:57Z\"}}}"
+	},
+	{
+		"username": "dkiesow",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-18T13:26:40Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-12T17:47:53Z\"}}}"
+	},
+	{
+		"username": "domrout",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-14T15:59:45Z\",\"pushedAt\":\"2012-11-14T16:00:55Z\",\"updatedAt\":\"2016-07-24T17:48:55Z\"}}}"
+	},
+	{
+		"username": "dshefman",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-20T18:48:34Z\",\"pushedAt\":\"2013-09-20T19:11:52Z\",\"updatedAt\":\"2013-09-20T19:11:59Z\"}}}"
+	},
+	{
+		"username": "dutchakdev",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-19T17:13:13Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-07-10T08:20:00Z\"}}}"
+	},
+	{
+		"username": "e-jigsaw",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-10T13:30:00Z\",\"pushedAt\":\"2013-07-25T17:54:19Z\",\"updatedAt\":\"2013-07-25T17:54:19Z\"}}}"
+	},
+	{
+		"username": "ediio",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-12T20:27:02Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-03-12T20:27:05Z\"}}}"
+	},
+	{
+		"username": "eduardoshanahan",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-14T12:13:35Z\",\"pushedAt\":\"2013-02-25T07:01:58Z\",\"updatedAt\":\"2013-03-14T12:13:35Z\"}}}"
+	},
+	{
+		"username": "efbeka",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-20T19:30:02Z\",\"pushedAt\":\"2012-11-22T18:25:08Z\",\"updatedAt\":\"2013-01-13T06:05:41Z\"}}}"
+	},
+	{
+		"username": "Enjeru",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-15T15:24:55Z\",\"pushedAt\":\"2013-03-15T15:30:36Z\",\"updatedAt\":\"2013-04-02T03:25:55Z\"}}}"
+	},
+	{
+		"username": "erwinw",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-17T12:11:40Z\",\"pushedAt\":\"2013-09-17T12:37:05Z\",\"updatedAt\":\"2013-09-17T12:37:05Z\"}}}"
+	},
+	{
+		"username": "evilqubit",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-30T23:01:16Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-07-29T00:16:39Z\"}}}"
+	},
+	{
+		"username": "fatshotty",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-23T13:09:43Z\",\"pushedAt\":\"2011-10-23T13:20:39Z\",\"updatedAt\":\"2013-01-04T12:07:36Z\"}}}"
+	},
+	{
+		"username": "fe-lix-",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-06T18:02:07Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-03-08T10:22:29Z\"}}}"
+	},
+	{
+		"username": "Fiachna",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-06T11:45:32Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-01-06T11:45:36Z\"}}}"
+	},
+	{
+		"username": "fkiller",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-24T18:31:20Z\",\"pushedAt\":\"2012-10-24T18:32:39Z\",\"updatedAt\":\"2013-03-05T15:46:45Z\"}}}"
+	},
+	{
+		"username": "francois2metz",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-12T21:22:39Z\",\"pushedAt\":\"2013-03-12T21:27:46Z\",\"updatedAt\":\"2013-03-12T21:30:33Z\"}}}"
+	},
+	{
+		"username": "fredzilla",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-12T22:08:43Z\",\"pushedAt\":\"2013-06-12T22:18:37Z\",\"updatedAt\":\"2013-06-12T22:20:11Z\"}}}"
+	},
+	{
+		"username": "freynolds",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-14T21:37:00Z\",\"pushedAt\":\"2013-03-19T18:47:46Z\",\"updatedAt\":\"2014-09-19T11:14:45Z\"}}}"
+	},
+	{
+		"username": "jaclar",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-19T15:50:26Z\",\"pushedAt\":\"2013-04-19T16:01:19Z\",\"updatedAt\":\"2013-04-19T16:01:20Z\"}}}"
+	},
+	{
+		"username": "funkytek",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-10T04:37:57Z\",\"pushedAt\":\"2012-08-07T22:48:40Z\",\"updatedAt\":\"2014-11-30T18:47:58Z\"}}}"
+	},
+	{
+		"username": "gdi2290",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-02-04T07:14:22Z\",\"pushedAt\":\"2014-02-04T07:14:37Z\",\"updatedAt\":\"2014-02-04T07:14:38Z\"}}}"
+	},
+	{
+		"username": "gijs",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-09T23:25:53Z\",\"pushedAt\":\"2011-11-26T18:09:50Z\",\"updatedAt\":\"2013-08-25T18:35:24Z\"}}}"
+	},
+	{
+		"username": "gotomanners",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-30T14:42:02Z\",\"pushedAt\":\"2012-08-07T22:48:40Z\",\"updatedAt\":\"2013-01-12T01:01:30Z\"}}}"
+	},
+	{
+		"username": "hardlifeofapo",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-13T19:18:50Z\",\"pushedAt\":\"2014-01-13T19:40:35Z\",\"updatedAt\":\"2014-01-13T19:40:38Z\"}}}"
+	},
+	{
+		"username": "HashGo",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-04-30T22:54:35Z\",\"pushedAt\":\"2012-06-04T03:50:43Z\",\"updatedAt\":\"2013-11-26T01:26:00Z\"}}}"
+	},
+	{
+		"username": "hazemtorab",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-09T18:01:37Z\",\"pushedAt\":\"2015-11-17T23:18:28Z\",\"updatedAt\":\"2016-01-09T18:01:38Z\"}}}"
+	},
+	{
+		"username": "hdachev",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-05T20:12:30Z\",\"pushedAt\":\"2012-06-05T20:30:25Z\",\"updatedAt\":\"2013-01-09T12:59:23Z\"}}}"
+	},
+	{
+		"username": "hellodmsworld",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-10-15T04:20:02Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-10-15T04:20:02Z\"}}}"
+	},
+	{
+		"username": "hisayan",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-23T04:18:50Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-01-23T04:18:50Z\"}}}"
+	},
+	{
+		"username": "horixon",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-02T04:51:55Z\",\"pushedAt\":\"2013-06-11T04:24:22Z\",\"updatedAt\":\"2014-03-27T02:09:23Z\"}}}"
+	},
+	{
+		"username": "elspiko",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-12T08:50:36Z\",\"pushedAt\":\"2013-06-12T09:07:49Z\",\"updatedAt\":\"2013-06-18T15:08:05Z\"}}}"
+	},
+	{
+		"username": "huapu",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-30T09:21:26Z\",\"pushedAt\":\"2013-12-06T03:06:41Z\",\"updatedAt\":\"2013-12-06T03:17:58Z\"}}}"
+	},
+	{
+		"username": "hubiquitus-old",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-30T13:52:29Z\",\"pushedAt\":\"2013-08-07T09:32:59Z\",\"updatedAt\":\"2013-12-16T15:56:26Z\"}}}"
+	},
+	{
+		"username": "Mattgic",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-26T14:26:21Z\",\"pushedAt\":\"2013-07-26T14:34:48Z\",\"updatedAt\":\"2013-12-16T15:56:26Z\"}}}"
+	},
+	{
+		"username": "imclab",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-11T06:20:58Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-07-11T06:20:58Z\"}}}"
+	},
+	{
+		"username": "Isolus",
+		"repository": "twitter-ng",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-31T22:27:17Z\",\"pushedAt\":\"2014-02-04T21:24:10Z\",\"updatedAt\":\"2018-03-15T10:55:29Z\"}}}"
+	},
+	{
+		"username": "knolleary",
+		"repository": "twitter-ng",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-02-02T21:07:19Z\",\"pushedAt\":\"2014-02-02T21:42:12Z\",\"updatedAt\":\"2014-02-03T08:39:36Z\"}}}"
+	},
+	{
+		"username": "jafff",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-09T23:40:10Z\",\"pushedAt\":\"2012-08-07T22:48:40Z\",\"updatedAt\":\"2013-01-11T16:42:36Z\"}}}"
+	},
+	{
+		"username": "jamescauwelier",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-21T09:49:03Z\",\"pushedAt\":\"2012-09-27T13:17:37Z\",\"updatedAt\":\"2013-01-12T08:23:44Z\"}}}"
+	},
+	{
+		"username": "JamesCodes",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-05-14T19:40:11Z\",\"pushedAt\":\"2012-05-14T19:44:57Z\",\"updatedAt\":\"2013-01-09T04:31:04Z\"}}}"
+	},
+	{
+		"username": "janoskk",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-10T20:41:21Z\",\"pushedAt\":\"2014-07-10T20:45:52Z\",\"updatedAt\":\"2014-07-10T20:45:51Z\"}}}"
+	},
+	{
+		"username": "javifernandez",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-27T21:41:47Z\",\"pushedAt\":\"2012-10-25T13:00:52Z\",\"updatedAt\":\"2013-01-11T23:54:00Z\"}}}"
+	},
+	{
+		"username": "jbramblegmu",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-13T21:14:56Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-09-13T21:14:58Z\"}}}"
+	},
+	{
+		"username": "jcx",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-09T22:55:43Z\",\"pushedAt\":\"2012-01-25T21:35:12Z\",\"updatedAt\":\"2017-05-22T16:08:35Z\"}}}"
+	},
+	{
+		"username": "jedahan",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-26T18:37:20Z\",\"pushedAt\":\"2013-03-24T23:52:59Z\",\"updatedAt\":\"2013-03-26T18:37:21Z\"}}}"
+	},
+	{
+		"username": "Jimflip",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-18T13:26:00Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-06-18T13:26:00Z\"}}}"
+	},
+	{
+		"username": "jimmylagp",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-27T03:58:44Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-27T03:58:44Z\"}}}"
+	},
+	{
+		"username": "jinmatt",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-09T14:52:04Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-09-09T06:52:31Z\"}}}"
+	},
+	{
+		"username": "jokame",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-12T21:24:05Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-03-12T21:24:05Z\"}}}"
+	},
+	{
+		"username": "jsuphoff",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-21T18:50:49Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-03-21T18:50:50Z\"}}}"
+	},
+	{
+		"username": "justinmanley",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-08-26T03:23:20Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-08-24T17:56:07Z\"}}}"
+	},
+	{
+		"username": "kaareal",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-02-25T10:01:28Z\",\"pushedAt\":\"2013-02-25T10:07:07Z\",\"updatedAt\":\"2013-12-10T19:41:40Z\"}}}"
+	},
+	{
+		"username": "kehers",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-01T04:24:37Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-11-01T04:24:37Z\"}}}"
+	},
+	{
+		"username": "Kevnz",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-03-10T07:42:49Z\",\"pushedAt\":\"2012-03-02T01:08:03Z\",\"updatedAt\":\"2013-01-08T04:01:54Z\"}}}"
+	},
+	{
+		"username": "kgrnbrg",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-08T14:20:37Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-07-04T15:22:19Z\"}}}"
+	},
+	{
+		"username": "koryovip",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-07T13:53:23Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-04-07T13:53:23Z\"}}}"
+	},
+	{
+		"username": "krisdigital",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-05T10:57:59Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-07-05T10:58:00Z\"}}}"
+	},
+	{
+		"username": "kuanjava",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-24T04:46:57Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-24T04:46:57Z\"}}}"
+	},
+	{
+		"username": "lc3t35",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-30T10:44:37Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-08-30T10:44:38Z\"}}}"
+	},
+	{
+		"username": "leejsinclair",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-03-15T12:01:58Z\",\"pushedAt\":\"2016-03-24T14:50:38Z\",\"updatedAt\":\"2017-03-15T12:02:00Z\"}}}"
+	},
+	{
+		"username": "linuxlewis",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-17T20:57:50Z\",\"pushedAt\":\"2012-02-17T21:02:18Z\",\"updatedAt\":\"2013-01-07T22:01:45Z\"}}}"
+	},
+	{
+		"username": "snowcrest",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-24T23:31:21Z\",\"pushedAt\":\"2012-02-17T21:02:18Z\",\"updatedAt\":\"2013-01-10T19:16:37Z\"}}}"
+	},
+	{
+		"username": "LocalSense",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-29T20:28:25Z\",\"pushedAt\":\"2012-07-24T14:54:48Z\",\"updatedAt\":\"2018-07-25T18:23:00Z\"}}}"
+	},
+	{
+		"username": "martindale",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-07-12T23:23:44Z\",\"pushedAt\":\"2012-07-24T14:24:32Z\",\"updatedAt\":\"2013-01-11T03:40:42Z\"}}}"
+	},
+	{
+		"username": "lovethebomb",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-02-25T08:52:16Z\",\"pushedAt\":\"2013-02-25T08:53:51Z\",\"updatedAt\":\"2013-02-25T08:53:51Z\"}}}"
+	},
+	{
+		"username": "MacBoyPro",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-02-17T18:21:14Z\",\"pushedAt\":\"2013-02-18T02:40:02Z\",\"updatedAt\":\"2013-02-18T02:40:03Z\"}}}"
+	},
+	{
+		"username": "magicbill",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-04T01:45:02Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-03-04T01:45:02Z\"}}}"
+	},
+	{
+		"username": "marcokaiser",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-05-17T07:26:15Z\",\"pushedAt\":\"2013-05-17T07:38:09Z\",\"updatedAt\":\"2013-05-17T07:38:11Z\"}}}"
+	},
+	{
+		"username": "martemas",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-23T17:06:51Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-12-23T17:06:52Z\"}}}"
+	},
+	{
+		"username": "mashwork",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-02T15:43:08Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-08-02T15:43:09Z\"}}}"
+	},
+	{
+		"username": "masihyeganeh",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-18T15:43:39Z\",\"pushedAt\":\"2013-04-18T22:05:42Z\",\"updatedAt\":\"2013-05-01T10:36:08Z\"}}}"
+	},
+	{
+		"username": "masterkain",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-23T09:46:57Z\",\"pushedAt\":\"2011-10-23T09:47:10Z\",\"updatedAt\":\"2013-01-04T12:07:03Z\"}}}"
+	},
+	{
+		"username": "masterrr",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-19T14:56:30Z\",\"pushedAt\":\"2013-04-19T14:56:54Z\",\"updatedAt\":\"2013-04-19T14:57:38Z\"}}}"
+	},
+	{
+		"username": "maxsoftware",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-21T12:56:41Z\",\"pushedAt\":\"2012-02-21T13:32:41Z\",\"updatedAt\":\"2013-01-07T22:58:47Z\"}}}"
+	},
+	{
+		"username": "mdabydeen",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-24T19:42:16Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-12T09:40:39Z\"}}}"
+	},
+	{
+		"username": "mef",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-15T10:37:15Z\",\"pushedAt\":\"2011-12-15T10:48:18Z\",\"updatedAt\":\"2015-01-20T17:24:54Z\"}}}"
+	},
+	{
+		"username": "mhasby",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-19T06:55:15Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-12T07:31:40Z\"}}}"
+	},
+	{
+		"username": "mhayashi",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-13T16:02:09Z\",\"pushedAt\":\"2012-08-13T16:11:43Z\",\"updatedAt\":\"2013-01-11T18:08:58Z\"}}}"
+	},
+	{
+		"username": "mikaelbr",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-15T09:14:28Z\",\"pushedAt\":\"2013-04-15T09:20:34Z\",\"updatedAt\":\"2013-04-15T09:24:16Z\"}}}"
+	},
+	{
+		"username": "mileszim",
+		"repository": "twat",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-27T20:48:00Z\",\"pushedAt\":\"2018-08-11T09:48:14Z\",\"updatedAt\":\"2018-08-11T09:48:17Z\"}}}"
+	},
+	{
+		"username": "mkrecny",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-04-24T16:40:12Z\",\"pushedAt\":\"2013-11-07T12:21:28Z\",\"updatedAt\":\"2013-11-07T12:21:32Z\"}}}"
+	},
+	{
+		"username": "mllGitHub",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-06-28T11:53:11Z\",\"pushedAt\":\"2018-04-24T01:06:24Z\",\"updatedAt\":\"2018-06-28T11:53:13Z\"}}}"
+	},
+	{
+		"username": "modo",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-09T19:24:27Z\",\"pushedAt\":\"2014-07-09T19:27:28Z\",\"updatedAt\":\"2014-07-09T19:27:25Z\"}}}"
+	},
+	{
+		"username": "mohitmodi",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-26T17:08:50Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-07-26T17:08:51Z\"}}}"
+	},
+	{
+		"username": "morxs",
+		"repository": "mtwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-24T09:12:00Z\",\"pushedAt\":\"2013-03-24T09:18:13Z\",\"updatedAt\":\"2013-04-05T05:13:07Z\"}}}"
+	},
+	{
+		"username": "mrobee",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-21T01:24:10Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-12-03T07:39:59Z\"}}}"
+	},
+	{
+		"username": "mschwanzer",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-02T17:31:52Z\",\"pushedAt\":\"2015-01-02T17:54:39Z\",\"updatedAt\":\"2015-01-02T17:54:39Z\"}}}"
+	},
+	{
+		"username": "NachoSoto",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-25T20:42:47Z\",\"pushedAt\":\"2013-05-31T04:42:25Z\",\"updatedAt\":\"2013-09-11T03:24:32Z\"}}}"
+	},
+	{
+		"username": "nanha",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-26T13:03:44Z\",\"pushedAt\":\"2011-11-26T18:09:50Z\",\"updatedAt\":\"2013-01-04T23:32:08Z\"}}}"
+	},
+	{
+		"username": "nickgs",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-15T15:30:48Z\",\"pushedAt\":\"2011-11-26T18:09:50Z\",\"updatedAt\":\"2013-01-04T21:39:54Z\"}}}"
+	},
+	{
+		"username": "nicky-isaacs",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-03T18:13:09Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-06-03T18:13:10Z\"}}}"
+	},
+	{
+		"username": "nodenstuff",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-04T01:58:11Z\",\"pushedAt\":\"2011-11-01T17:11:03Z\",\"updatedAt\":\"2013-01-04T13:52:10Z\"}}}"
+	},
+	{
+		"username": "nsbingham",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-14T19:50:24Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-12T06:12:41Z\"}}}"
+	},
+	{
+		"username": "nulltask",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-02-14T02:07:45Z\",\"pushedAt\":\"2012-03-09T04:38:11Z\",\"updatedAt\":\"2013-04-03T13:01:23Z\"}}}"
+	},
+	{
+		"username": "ibank",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-03T13:01:23Z\",\"pushedAt\":\"2012-03-09T04:38:11Z\",\"updatedAt\":\"2013-04-03T13:01:23Z\"}}}"
+	},
+	{
+		"username": "obihann",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-30T16:37:56Z\",\"pushedAt\":\"2013-09-30T16:52:05Z\",\"updatedAt\":\"2014-02-13T16:29:47Z\"}}}"
+	},
+	{
+		"username": "ostera",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-26T22:47:24Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-12-26T22:47:25Z\"}}}"
+	},
+	{
+		"username": "paav-o",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-20T18:03:28Z\",\"pushedAt\":\"2012-11-20T18:05:21Z\",\"updatedAt\":\"2013-01-13T06:03:57Z\"}}}"
+	},
+	{
+		"username": "paulsebastianbruno",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-10-14T00:15:50Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-10-14T00:15:51Z\"}}}"
+	},
+	{
+		"username": "petewarrior",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-27T17:35:13Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-06-27T17:35:13Z\"}}}"
+	},
+	{
+		"username": "philipmat",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-09T08:54:08Z\",\"pushedAt\":\"2011-09-09T10:05:03Z\",\"updatedAt\":\"2013-01-04T05:03:56Z\"}}}"
+	},
+	{
+		"username": "Philmod",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-04T22:36:40Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-06-04T22:36:40Z\"}}}"
+	},
+	{
+		"username": "plancien",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-30T01:51:33Z\",\"pushedAt\":\"2011-11-30T01:57:20Z\",\"updatedAt\":\"2013-01-04T18:29:13Z\"}}}"
+	},
+	{
+		"username": "poptip",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-11T07:20:32Z\",\"pushedAt\":\"2012-10-25T06:43:49Z\",\"updatedAt\":\"2014-03-23T17:47:22Z\"}}}"
+	},
+	{
+		"username": "prabhjotSL",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-29T06:04:20Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-01-29T06:04:20Z\"}}}"
+	},
+	{
+		"username": "pselle",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-04-09T20:12:58Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-04-09T20:12:58Z\"}}}"
+	},
+	{
+		"username": "PunkChameleon",
+		"repository": "twode",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-02T02:11:37Z\",\"pushedAt\":\"2018-04-24T01:06:22Z\",\"updatedAt\":\"2018-04-24T01:06:24Z\"}}}"
+	},
+	{
+		"username": "DaveAtDog",
+		"repository": "twode",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-10T10:08:46Z\",\"pushedAt\":\"2016-05-10T10:11:23Z\",\"updatedAt\":\"2016-05-10T10:08:47Z\"}}}"
+	},
+	{
+		"username": "WhatAKitty",
+		"repository": "twode",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-12-28T11:51:54Z\",\"pushedAt\":\"2015-11-17T23:18:28Z\",\"updatedAt\":\"2015-12-28T11:51:55Z\"}}}"
+	},
+	{
+		"username": "pwagener",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-30T00:15:53Z\",\"pushedAt\":\"2011-09-30T00:18:34Z\",\"updatedAt\":\"2013-01-04T08:23:35Z\"}}}"
+	},
+	{
+		"username": "rabisg",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-24T17:10:46Z\",\"pushedAt\":\"2012-08-07T22:48:40Z\",\"updatedAt\":\"2013-01-11T22:58:45Z\"}}}"
+	},
+	{
+		"username": "rahilvirani",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-20T12:24:41Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-01-13T05:56:45Z\"}}}"
+	},
+	{
+		"username": "rajeshsegu",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-12T02:19:25Z\",\"pushedAt\":\"2013-07-12T02:25:44Z\",\"updatedAt\":\"2013-07-12T02:27:49Z\"}}}"
+	},
+	{
+		"username": "reynaldot",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-21T23:24:07Z\",\"pushedAt\":\"2013-03-22T01:02:01Z\",\"updatedAt\":\"2013-03-22T01:02:02Z\"}}}"
+	},
+	{
+		"username": "robhawkes",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-06T17:01:17Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-05-19T00:07:18Z\"}}}"
+	},
+	{
+		"username": "rt2zz",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-02T05:29:24Z\",\"pushedAt\":\"2013-07-02T05:33:27Z\",\"updatedAt\":\"2013-08-31T02:57:54Z\"}}}"
+	},
+	{
+		"username": "ryanjosh",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-10-02T05:47:02Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-10-02T05:47:03Z\"}}}"
+	},
+	{
+		"username": "RyuVerse",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-12-27T20:52:50Z\",\"pushedAt\":\"2014-10-14T14:38:28Z\",\"updatedAt\":\"2014-12-27T20:52:51Z\"}}}"
+	},
+	{
+		"username": "SachiraChin",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-06T11:30:13Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2015-01-13T04:01:26Z\"}}}"
+	},
+	{
+		"username": "sameleaf",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-03T22:20:32Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-05-03T22:20:33Z\"}}}"
+	},
+	{
+		"username": "samritbk",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-29T12:48:20Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-09-29T12:55:02Z\"}}}"
+	},
+	{
+		"username": "sanpandora",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-07-16T21:45:23Z\",\"pushedAt\":\"2014-10-14T14:38:28Z\",\"updatedAt\":\"2015-07-16T21:45:26Z\"}}}"
+	},
+	{
+		"username": "santihbc",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-05-04T23:08:55Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-05-04T23:08:55Z\"}}}"
+	},
+	{
+		"username": "Savidger",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-24T21:19:40Z\",\"pushedAt\":\"2014-07-24T21:33:13Z\",\"updatedAt\":\"2014-07-24T21:33:13Z\"}}}"
+	},
+	{
+		"username": "sebhildebrandt",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-17T12:29:11Z\",\"pushedAt\":\"2013-06-17T12:42:25Z\",\"updatedAt\":\"2015-10-23T17:27:33Z\"}}}"
+	},
+	{
+		"username": "technicalpickles",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-16T01:57:55Z\",\"pushedAt\":\"2013-06-17T12:42:25Z\",\"updatedAt\":\"2014-05-16T01:57:56Z\"}}}"
+	},
+	{
+		"username": "serkansevilgen",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-29T14:26:57Z\",\"pushedAt\":\"2014-05-29T14:57:08Z\",\"updatedAt\":\"2014-05-29T14:57:08Z\"}}}"
+	},
+	{
+		"username": "Shugardude",
+		"repository": "ntwitter2",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-16T23:32:38Z\",\"pushedAt\":\"2015-09-24T18:58:22Z\",\"updatedAt\":\"2015-09-24T18:51:23Z\"}}}"
+	},
+	{
+		"username": "simonkim",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-01T02:54:00Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-08-01T02:54:02Z\"}}}"
+	},
+	{
+		"username": "skynet",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-03T03:53:11Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-06-03T03:53:11Z\"}}}"
+	},
+	{
+		"username": "sotoer",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-09T19:45:57Z\",\"pushedAt\":\"2013-12-09T19:54:52Z\",\"updatedAt\":\"2014-01-13T10:31:23Z\"}}}"
+	},
+	{
+		"username": "SAMdesk",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-29T20:07:04Z\",\"pushedAt\":\"2018-06-28T15:09:44Z\",\"updatedAt\":\"2018-06-28T15:09:46Z\"}}}"
+	},
+	{
+		"username": "mtrubnikov",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-30T07:24:41Z\",\"pushedAt\":\"2015-04-10T22:08:15Z\",\"updatedAt\":\"2015-09-30T07:24:42Z\"}}}"
+	},
+	{
+		"username": "yossale",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-13T10:38:16Z\",\"pushedAt\":\"2013-12-09T19:54:52Z\",\"updatedAt\":\"2014-01-13T10:38:16Z\"}}}"
+	},
+	{
+		"username": "srhart",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-10T14:20:07Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-03-10T14:20:08Z\"}}}"
+	},
+	{
+		"username": "storify",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-03-25T18:11:08Z\",\"pushedAt\":\"2012-03-25T18:46:56Z\",\"updatedAt\":\"2013-01-08T09:39:32Z\"}}}"
+	},
+	{
+		"username": "bsfan",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-04-07T03:06:55Z\",\"pushedAt\":\"2012-03-25T18:46:56Z\",\"updatedAt\":\"2013-01-08T14:22:07Z\"}}}"
+	},
+	{
+		"username": "hrachikovna",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-02-03T10:35:41Z\",\"pushedAt\":\"2012-03-25T18:46:56Z\",\"updatedAt\":\"2018-02-03T10:35:43Z\"}}}"
+	},
+	{
+		"username": "swenggmanjeet",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-04T12:16:35Z\",\"pushedAt\":\"2014-10-14T14:38:28Z\",\"updatedAt\":\"2015-06-04T12:16:35Z\"}}}"
+	},
+	{
+		"username": "takahiro47",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-24T14:00:58Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-06-24T14:00:59Z\"}}}"
+	},
+	{
+		"username": "tcr",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-06T20:57:30Z\",\"pushedAt\":\"2011-10-07T21:41:48Z\",\"updatedAt\":\"2013-01-04T09:39:20Z\"}}}"
+	},
+	{
+		"username": "thiagodieb",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-10-23T09:52:47Z\",\"pushedAt\":\"2014-10-14T14:38:28Z\",\"updatedAt\":\"2014-10-16T21:08:18Z\"}}}"
+	},
+	{
+		"username": "timisbusy",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-17T20:54:46Z\",\"pushedAt\":\"2016-06-13T19:35:56Z\",\"updatedAt\":\"2013-01-12T17:32:34Z\"}}}"
+	},
+	{
+		"username": "tlo",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-25T13:51:24Z\",\"pushedAt\":\"2012-10-25T13:54:22Z\",\"updatedAt\":\"2018-06-18T11:39:21Z\"}}}"
+	},
+	{
+		"username": "tokunami",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-19T01:21:29Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2014-06-19T01:21:30Z\"}}}"
+	},
+	{
+		"username": "tom-maton-akqa",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-18T11:49:07Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-07-18T11:49:07Z\"}}}"
+	},
+	{
+		"username": "vic",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-16T00:54:08Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-06-16T00:54:08Z\"}}}"
+	},
+	{
+		"username": "viirya",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-04-16T07:19:19Z\",\"pushedAt\":\"2012-04-16T07:21:59Z\",\"updatedAt\":\"2013-01-08T17:51:45Z\"}}}"
+	},
+	{
+		"username": "villamedia",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-12-04T03:17:36Z\",\"pushedAt\":\"2014-10-14T14:38:28Z\",\"updatedAt\":\"2014-12-04T03:17:37Z\"}}}"
+	},
+	{
+		"username": "vkbalakrishnan",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-02T10:25:02Z\",\"pushedAt\":\"2013-10-08T09:42:02Z\",\"updatedAt\":\"2013-10-08T09:42:05Z\"}}}"
+	},
+	{
+		"username": "Web5design",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-03-06T16:59:36Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-03-06T16:59:36Z\"}}}"
+	},
+	{
+		"username": "Xorcode",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-08-26T08:17:15Z\",\"pushedAt\":\"2012-08-07T22:48:40Z\",\"updatedAt\":\"2013-01-11T23:22:20Z\"}}}"
+	},
+	{
+		"username": "ya7ya",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-20T17:44:43Z\",\"pushedAt\":\"2013-12-20T19:21:20Z\",\"updatedAt\":\"2013-12-20T19:21:20Z\"}}}"
+	},
+	{
+		"username": "zdzolton",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-05-22T14:30:59Z\",\"pushedAt\":\"2012-06-29T17:24:42Z\",\"updatedAt\":\"2013-01-09T07:07:21Z\"}}}"
+	},
+	{
+		"username": "zsyslog",
+		"repository": "ntwitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-02T14:40:51Z\",\"pushedAt\":\"2012-09-14T16:16:17Z\",\"updatedAt\":\"2013-07-02T14:40:51Z\"}}}"
+	},
+	{
+		"username": "axkibe",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-30T20:31:51Z\",\"pushedAt\":\"2011-10-11T02:51:46Z\",\"updatedAt\":\"2013-01-04T13:08:28Z\"}}}"
+	},
+	{
+		"username": "buley",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-08T15:10:38Z\",\"pushedAt\":\"2011-10-08T15:11:27Z\",\"updatedAt\":\"2014-03-28T20:10:47Z\"}}}"
+	},
+	{
+		"username": "chadsmith",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-09-20T17:41:24Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-01-12T08:05:43Z\"}}}"
+	},
+	{
+		"username": "christopherwright",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-30T01:16:21Z\",\"pushedAt\":\"2011-09-30T01:20:13Z\",\"updatedAt\":\"2013-01-04T08:23:57Z\"}}}"
+	},
+	{
+		"username": "chrisweb",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-06T14:52:47Z\",\"pushedAt\":\"2013-07-06T14:54:02Z\",\"updatedAt\":\"2013-08-08T17:46:49Z\"}}}"
+	},
+	{
+		"username": "cletustboone",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-05-23T18:47:56Z\",\"pushedAt\":\"2012-08-15T20:43:45Z\",\"updatedAt\":\"2014-02-07T03:59:03Z\"}}}"
+	},
+	{
+		"username": "dabonneville",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-02-14T18:07:12Z\",\"pushedAt\":\"2015-04-19T18:13:55Z\",\"updatedAt\":\"2016-02-14T18:07:13Z\"}}}"
+	},
+	{
+		"username": "desmondmorris",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-04T02:26:00Z\",\"pushedAt\":\"2019-02-18T21:15:47Z\",\"updatedAt\":\"2019-02-02T21:43:50Z\"}}}"
+	},
+	{
+		"username": "absolutelyNoWarranty",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-22T09:33:32Z\",\"pushedAt\":\"2017-04-16T18:25:46Z\",\"updatedAt\":\"2017-04-22T09:33:34Z\"}}}"
+	},
+	{
+		"username": "accimeesterlin",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-03T16:35:38Z\",\"pushedAt\":\"2017-04-01T21:52:21Z\",\"updatedAt\":\"2017-04-03T16:35:40Z\"}}}"
+	},
+	{
+		"username": "affinespaces",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-01-02T10:48:08Z\",\"pushedAt\":\"2016-12-28T06:18:57Z\",\"updatedAt\":\"2017-01-02T10:48:11Z\"}}}"
+	},
+	{
+		"username": "Agilians",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-03-06T09:37:09Z\",\"pushedAt\":\"2018-03-06T09:51:52Z\",\"updatedAt\":\"2018-03-06T17:05:16Z\"}}}"
+	},
+	{
+		"username": "Ahmed-Aljasim",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-11-29T11:09:45Z\",\"pushedAt\":\"2018-11-29T11:15:01Z\",\"updatedAt\":\"2018-12-20T08:00:15Z\"}}}"
+	},
+	{
+		"username": "ajsb85",
+		"repository": "node-magento-rest",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-09T11:23:20Z\",\"pushedAt\":\"2016-03-27T21:59:54Z\",\"updatedAt\":\"2018-02-28T10:51:07Z\"}}}"
+	},
+	{
+		"username": "Krolcom",
+		"repository": "node-magento-rest",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-08-05T16:55:09Z\",\"pushedAt\":\"2016-03-27T21:59:54Z\",\"updatedAt\":\"2017-08-05T16:55:11Z\"}}}"
+	},
+	{
+		"username": "AlaaAttya",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-22T21:32:07Z\",\"pushedAt\":\"2014-04-05T02:14:20Z\",\"updatedAt\":\"2014-04-10T00:39:00Z\"}}}"
+	},
+	{
+		"username": "aletorrado",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-02-07T01:17:36Z\",\"pushedAt\":\"2015-01-25T23:41:50Z\",\"updatedAt\":\"2015-02-07T01:17:36Z\"}}}"
+	},
+	{
+		"username": "alex3165",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-07-03T19:55:11Z\",\"pushedAt\":\"2017-06-26T01:36:10Z\",\"updatedAt\":\"2017-07-03T19:55:13Z\"}}}"
+	},
+	{
+		"username": "alonisser",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-12-22T14:44:56Z\",\"pushedAt\":\"2017-12-22T14:53:27Z\",\"updatedAt\":\"2017-12-22T14:44:57Z\"}}}"
+	},
+	{
+		"username": "amreshyadav",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-11-29T11:48:18Z\",\"pushedAt\":\"2016-10-17T14:55:25Z\",\"updatedAt\":\"2016-11-29T11:48:19Z\"}}}"
+	},
+	{
+		"username": "anandg112",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-12-03T20:57:47Z\",\"pushedAt\":\"2017-12-03T05:03:15Z\",\"updatedAt\":\"2019-02-14T05:13:43Z\"}}}"
+	},
+	{
+		"username": "anandheritage",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-06-17T11:03:19Z\",\"pushedAt\":\"2016-06-08T04:51:52Z\",\"updatedAt\":\"2016-06-17T11:03:20Z\"}}}"
+	},
+	{
+		"username": "anbud",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-05-06T18:38:46Z\",\"pushedAt\":\"2018-04-28T11:11:49Z\",\"updatedAt\":\"2018-05-06T18:38:48Z\"}}}"
+	},
+	{
+		"username": "andela-doladosu",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-08-24T14:44:09Z\",\"pushedAt\":\"2017-08-24T19:34:00Z\",\"updatedAt\":\"2017-08-24T14:44:11Z\"}}}"
+	},
+	{
+		"username": "andy-g",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-12T08:49:50Z\",\"pushedAt\":\"2013-12-12T09:06:42Z\",\"updatedAt\":\"2013-12-12T09:06:42Z\"}}}"
+	},
+	{
+		"username": "apoorvanand",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-04-20T13:23:20Z\",\"pushedAt\":\"2018-04-19T01:26:15Z\",\"updatedAt\":\"2018-04-20T13:23:22Z\"}}}"
+	},
+	{
+		"username": "AravindaM",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-06-02T08:50:43Z\",\"pushedAt\":\"2016-06-01T12:48:32Z\",\"updatedAt\":\"2016-06-02T08:50:45Z\"}}}"
+	},
+	{
+		"username": "armandozabala",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-10T19:34:11Z\",\"pushedAt\":\"2015-06-09T22:30:15Z\",\"updatedAt\":\"2015-11-06T00:09:17Z\"}}}"
+	},
+	{
+		"username": "arshavskiy",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-03-12T21:12:03Z\",\"pushedAt\":\"2018-03-12T10:43:23Z\",\"updatedAt\":\"2018-03-12T21:12:05Z\"}}}"
+	},
+	{
+		"username": "as-com",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-08-12T15:00:47Z\",\"pushedAt\":\"2017-08-12T15:13:30Z\",\"updatedAt\":\"2017-08-12T15:00:48Z\"}}}"
+	},
+	{
+		"username": "asergheraert",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-11-30T15:42:37Z\",\"pushedAt\":\"2017-11-30T06:17:29Z\",\"updatedAt\":\"2017-11-30T15:42:39Z\"}}}"
+	},
+	{
+		"username": "aswinin",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-11-08T07:33:30Z\",\"pushedAt\":\"2016-10-17T14:55:25Z\",\"updatedAt\":\"2016-11-08T07:33:31Z\"}}}"
+	},
+	{
+		"username": "austinkelleher",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-12T23:52:55Z\",\"pushedAt\":\"2015-09-08T22:20:53Z\",\"updatedAt\":\"2015-09-12T23:52:57Z\"}}}"
+	},
+	{
+		"username": "avilano",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-09-06T17:49:15Z\",\"pushedAt\":\"2017-09-03T22:36:43Z\",\"updatedAt\":\"2017-09-06T17:49:17Z\"}}}"
+	},
+	{
+		"username": "ayushchd",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-22T13:57:47Z\",\"pushedAt\":\"2017-04-22T15:45:17Z\",\"updatedAt\":\"2017-04-22T13:57:49Z\"}}}"
+	},
+	{
+		"username": "BarryCarlyon",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-09-21T17:49:12Z\",\"pushedAt\":\"2018-02-19T10:56:19Z\",\"updatedAt\":\"2016-09-21T17:49:13Z\"}}}"
+	},
+	{
+		"username": "berenjb",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-10-17T22:24:14Z\",\"pushedAt\":\"2014-09-09T17:13:07Z\",\"updatedAt\":\"2014-10-17T20:12:41Z\"}}}"
+	},
+	{
+		"username": "bradserbu",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-19T20:14:48Z\",\"pushedAt\":\"2016-01-19T10:26:38Z\",\"updatedAt\":\"2016-01-19T20:14:49Z\"}}}"
+	},
+	{
+		"username": "brunovuftv2018",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-08-07T08:32:57Z\",\"pushedAt\":\"2018-08-01T00:02:31Z\",\"updatedAt\":\"2018-08-07T08:32:59Z\"}}}"
+	},
+	{
+		"username": "ChaitanyaVardhan",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-07-03T19:56:12Z\",\"pushedAt\":\"2016-06-29T14:21:36Z\",\"updatedAt\":\"2016-07-03T19:56:13Z\"}}}"
+	},
+	{
+		"username": "charltoons",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2019-01-15T13:52:06Z\",\"pushedAt\":\"2019-01-02T21:55:41Z\",\"updatedAt\":\"2019-01-15T13:52:09Z\"}}}"
+	},
+	{
+		"username": "chethann",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-04-16T09:37:47Z\",\"pushedAt\":\"2016-03-31T16:14:08Z\",\"updatedAt\":\"2016-04-16T09:37:49Z\"}}}"
+	},
+	{
+		"username": "chmac",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-06-27T09:24:01Z\",\"pushedAt\":\"2016-06-29T14:21:35Z\",\"updatedAt\":\"2016-06-27T09:24:02Z\"}}}"
+	},
+	{
+		"username": "Cipher099",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-06-15T15:50:28Z\",\"pushedAt\":\"2018-06-15T19:03:46Z\",\"updatedAt\":\"2018-06-15T19:03:48Z\"}}}"
+	},
+	{
+		"username": "cjlopesmartins",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-23T08:00:29Z\",\"pushedAt\":\"2018-01-20T05:37:59Z\",\"updatedAt\":\"2018-01-23T08:00:30Z\"}}}"
+	},
+	{
+		"username": "coolbree2e",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-07-26T01:00:06Z\",\"pushedAt\":\"2018-07-23T21:22:53Z\",\"updatedAt\":\"2018-07-26T01:00:08Z\"}}}"
+	},
+	{
+		"username": "csesparks",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-11T12:24:20Z\",\"pushedAt\":\"2016-02-14T16:12:15Z\",\"updatedAt\":\"2016-03-11T12:24:20Z\"}}}"
+	},
+	{
+		"username": "danlvv",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-08T15:33:11Z\",\"pushedAt\":\"2016-04-26T17:36:27Z\",\"updatedAt\":\"2016-05-08T15:33:12Z\"}}}"
+	},
+	{
+		"username": "danywarner",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-08T22:10:37Z\",\"pushedAt\":\"2015-09-08T22:18:46Z\",\"updatedAt\":\"2015-09-08T22:10:38Z\"}}}"
+	},
+	{
+		"username": "dasaCoder",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-05-11T17:17:24Z\",\"pushedAt\":\"2018-04-28T11:11:49Z\",\"updatedAt\":\"2018-05-11T17:17:26Z\"}}}"
+	},
+	{
+		"username": "datatypevoid",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-02-10T17:24:27Z\",\"pushedAt\":\"2018-02-03T03:41:22Z\",\"updatedAt\":\"2018-02-10T17:24:28Z\"}}}"
+	},
+	{
+		"username": "davidatwhiletrue",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-10-29T06:43:41Z\",\"pushedAt\":\"2017-10-28T23:33:28Z\",\"updatedAt\":\"2017-10-29T06:43:44Z\"}}}"
+	},
+	{
+		"username": "dekelev",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-06-05T08:34:09Z\",\"pushedAt\":\"2017-06-05T08:39:04Z\",\"updatedAt\":\"2017-06-05T08:34:11Z\"}}}"
+	},
+	{
+		"username": "deltreey",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-10-17T20:12:43Z\",\"pushedAt\":\"2014-09-09T17:13:07Z\",\"updatedAt\":\"2014-10-17T20:12:41Z\"}}}"
+	},
+	{
+		"username": "denstepa",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-07T15:56:02Z\",\"pushedAt\":\"2016-03-07T17:56:07Z\",\"updatedAt\":\"2016-03-07T15:56:03Z\"}}}"
+	},
+	{
+		"username": "devildeveloper",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-12-02T13:20:24Z\",\"pushedAt\":\"2013-11-15T19:12:38Z\",\"updatedAt\":\"2013-12-02T13:20:24Z\"}}}"
+	},
+	{
+		"username": "DhruvAerosol",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-06-25T06:19:20Z\",\"pushedAt\":\"2018-06-23T09:00:20Z\",\"updatedAt\":\"2018-06-25T06:19:22Z\"}}}"
+	},
+	{
+		"username": "dinostheo",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-08T16:12:54Z\",\"pushedAt\":\"2017-04-01T21:52:21Z\",\"updatedAt\":\"2017-04-08T16:12:55Z\"}}}"
+	},
+	{
+		"username": "dlindahl",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-29T22:05:48Z\",\"pushedAt\":\"2014-07-03T03:51:07Z\",\"updatedAt\":\"2014-05-07T23:36:53Z\"}}}"
+	},
+	{
+		"username": "Dubsit",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-19T02:07:40Z\",\"pushedAt\":\"2014-09-09T17:13:07Z\",\"updatedAt\":\"2014-09-19T02:07:33Z\"}}}"
+	},
+	{
+		"username": "emnsen",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-12-27T14:24:29Z\",\"pushedAt\":\"2017-05-18T16:32:14Z\",\"updatedAt\":\"2016-12-27T14:24:31Z\"}}}"
+	},
+	{
+		"username": "enricoaleandri",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-07-04T10:42:16Z\",\"pushedAt\":\"2017-06-26T01:36:10Z\",\"updatedAt\":\"2017-07-04T10:42:18Z\"}}}"
+	},
+	{
+		"username": "ericnmurphy",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-10-31T09:38:22Z\",\"pushedAt\":\"2018-10-31T09:43:21Z\",\"updatedAt\":\"2018-10-31T09:38:24Z\"}}}"
+	},
+	{
+		"username": "Eros",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-02-28T10:44:47Z\",\"pushedAt\":\"2018-02-27T18:16:42Z\",\"updatedAt\":\"2018-02-28T10:44:49Z\"}}}"
+	},
+	{
+		"username": "espython",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-11-18T17:51:29Z\",\"pushedAt\":\"2017-11-10T22:28:03Z\",\"updatedAt\":\"2017-11-18T17:51:31Z\"}}}"
+	},
+	{
+		"username": "eternalapprentice2000",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-10-12T13:44:22Z\",\"pushedAt\":\"2016-09-21T18:01:00Z\",\"updatedAt\":\"2016-10-12T13:44:23Z\"}}}"
+	},
+	{
+		"username": "everyplace",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-29T00:06:51Z\",\"pushedAt\":\"2016-02-14T16:12:15Z\",\"updatedAt\":\"2016-03-29T00:06:52Z\"}}}"
+	},
+	{
+		"username": "fcozza",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-26T10:33:24Z\",\"pushedAt\":\"2016-08-26T12:14:54Z\",\"updatedAt\":\"2016-08-26T10:33:25Z\"}}}"
+	},
+	{
+		"username": "FiftyThree",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-11-18T01:39:49Z\",\"pushedAt\":\"2015-09-21T21:04:16Z\",\"updatedAt\":\"2015-02-12T12:04:06Z\"}}}"
+	},
+	{
+		"username": "flyingxiang",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-29T16:53:34Z\",\"pushedAt\":\"2016-05-23T03:37:55Z\",\"updatedAt\":\"2016-05-29T16:53:34Z\"}}}"
+	},
+	{
+		"username": "FreakTheMighty",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-23T22:49:03Z\",\"pushedAt\":\"2014-09-24T17:02:28Z\",\"updatedAt\":\"2014-09-23T23:50:20Z\"}}}"
+	},
+	{
+		"username": "fredericksilva",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-03-23T10:32:40Z\",\"pushedAt\":\"2017-03-17T22:52:08Z\",\"updatedAt\":\"2017-03-23T10:32:42Z\"}}}"
+	},
+	{
+		"username": "Frizz925",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-26T15:50:59Z\",\"pushedAt\":\"2018-02-11T09:00:46Z\",\"updatedAt\":\"2018-02-12T11:35:00Z\"}}}"
+	},
+	{
+		"username": "fsandx",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-18T05:41:05Z\",\"pushedAt\":\"2018-01-18T04:28:24Z\",\"updatedAt\":\"2018-01-18T05:41:07Z\"}}}"
+	},
+	{
+		"username": "gabfusi",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-04-21T12:29:19Z\",\"pushedAt\":\"2016-10-17T15:50:10Z\",\"updatedAt\":\"2016-10-17T14:12:42Z\"}}}"
+	},
+	{
+		"username": "gabosdk",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-07T22:46:55Z\",\"pushedAt\":\"2016-08-03T18:33:29Z\",\"updatedAt\":\"2016-08-07T22:46:56Z\"}}}"
+	},
+	{
+		"username": "gazzer82",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-03T21:49:02Z\",\"pushedAt\":\"2015-06-03T23:13:38Z\",\"updatedAt\":\"2015-06-03T21:49:03Z\"}}}"
+	},
+	{
+		"username": "gitter-badger",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-30T10:43:58Z\",\"pushedAt\":\"2014-09-30T10:44:00Z\",\"updatedAt\":\"2014-09-25T19:32:00Z\"}}}"
+	},
+	{
+		"username": "gnomus",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-04-10T09:22:30Z\",\"pushedAt\":\"2014-04-10T09:25:21Z\",\"updatedAt\":\"2014-04-10T09:26:06Z\"}}}"
+	},
+	{
+		"username": "greenham",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-12-06T20:00:14Z\",\"pushedAt\":\"2018-12-06T20:01:41Z\",\"updatedAt\":\"2018-12-06T20:01:43Z\"}}}"
+	},
+	{
+		"username": "gunderson",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-16T18:34:10Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2014-05-16T18:34:11Z\"}}}"
+	},
+	{
+		"username": "guybedford",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-26T10:07:15Z\",\"pushedAt\":\"2015-01-25T23:41:50Z\",\"updatedAt\":\"2015-02-23T15:58:26Z\"}}}"
+	},
+	{
+		"username": "gvnn",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-06-06T09:32:50Z\",\"pushedAt\":\"2017-06-06T09:49:27Z\",\"updatedAt\":\"2017-06-06T09:32:52Z\"}}}"
+	},
+	{
+		"username": "Half-Shot",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-03-21T15:36:05Z\",\"pushedAt\":\"2017-03-21T16:33:51Z\",\"updatedAt\":\"2017-03-21T15:36:34Z\"}}}"
+	},
+	{
+		"username": "hectorlee",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-12-23T04:13:52Z\",\"pushedAt\":\"2014-12-23T04:15:29Z\",\"updatedAt\":\"2014-12-23T04:15:29Z\"}}}"
+	},
+	{
+		"username": "hellobrian",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-02-26T07:15:33Z\",\"pushedAt\":\"2015-01-25T23:41:50Z\",\"updatedAt\":\"2015-02-26T07:15:34Z\"}}}"
+	},
+	{
+		"username": "hitesh00025",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-06-02T13:07:08Z\",\"pushedAt\":\"2016-06-01T12:48:32Z\",\"updatedAt\":\"2016-06-02T13:07:09Z\"}}}"
+	},
+	{
+		"username": "ht22pt",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-12-15T06:30:44Z\",\"pushedAt\":\"2016-12-14T19:24:48Z\",\"updatedAt\":\"2016-12-15T06:30:45Z\"}}}"
+	},
+	{
+		"username": "hyl",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-18T20:18:06Z\",\"pushedAt\":\"2014-12-01T22:53:25Z\",\"updatedAt\":\"2014-12-01T22:53:25Z\"}}}"
+	},
+	{
+		"username": "iamryoman",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-02-07T08:50:30Z\",\"pushedAt\":\"2018-02-03T03:41:22Z\",\"updatedAt\":\"2018-02-07T08:50:32Z\"}}}"
+	},
+	{
+		"username": "iamstarkov",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-08-01T17:31:28Z\",\"pushedAt\":\"2015-08-01T22:11:16Z\",\"updatedAt\":\"2015-08-01T17:31:28Z\"}}}"
+	},
+	{
+		"username": "icarusalways",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-02-11T00:35:01Z\",\"pushedAt\":\"2016-01-19T10:26:38Z\",\"updatedAt\":\"2016-02-11T00:35:02Z\"}}}"
+	},
+	{
+		"username": "iclems",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-04-08T13:20:00Z\",\"pushedAt\":\"2014-04-08T13:21:02Z\",\"updatedAt\":\"2014-04-10T00:33:15Z\"}}}"
+	},
+	{
+		"username": "ikr7",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-07-04T13:26:38Z\",\"pushedAt\":\"2015-07-11T15:27:03Z\",\"updatedAt\":\"2015-07-04T13:26:38Z\"}}}"
+	},
+	{
+		"username": "illyashevchenko",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-23T19:09:17Z\",\"pushedAt\":\"2016-01-19T10:26:38Z\",\"updatedAt\":\"2016-01-23T19:09:18Z\"}}}"
+	},
+	{
+		"username": "iQXCorp",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-02-22T21:43:34Z\",\"pushedAt\":\"2016-02-22T21:44:38Z\",\"updatedAt\":\"2016-02-22T21:43:35Z\"}}}"
+	},
+	{
+		"username": "isubhashree",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-12T13:09:27Z\",\"pushedAt\":\"2016-02-14T16:12:15Z\",\"updatedAt\":\"2016-03-12T13:09:28Z\"}}}"
+	},
+	{
+		"username": "IvanJov",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-02-17T22:16:51Z\",\"pushedAt\":\"2017-02-17T22:17:47Z\",\"updatedAt\":\"2017-02-17T22:16:53Z\"}}}"
+	},
+	{
+		"username": "Jack541108",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-03-09T20:50:45Z\",\"pushedAt\":\"2015-03-07T14:43:21Z\",\"updatedAt\":\"2015-03-09T20:50:47Z\"}}}"
+	},
+	{
+		"username": "jad11v",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-04-11T02:38:31Z\",\"pushedAt\":\"2018-04-10T19:40:28Z\",\"updatedAt\":\"2018-04-11T02:38:33Z\"}}}"
+	},
+	{
+		"username": "jankuca",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-12-13T17:03:01Z\",\"pushedAt\":\"2015-01-11T16:01:22Z\",\"updatedAt\":\"2015-01-11T16:01:22Z\"}}}"
+	},
+	{
+		"username": "jcambert",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-11-24T15:25:40Z\",\"pushedAt\":\"2016-10-17T14:55:25Z\",\"updatedAt\":\"2016-11-24T15:25:42Z\"}}}"
+	},
+	{
+		"username": "jeanfabrice",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-04-02T19:28:58Z\",\"pushedAt\":\"2018-03-23T03:24:24Z\",\"updatedAt\":\"2018-04-02T19:29:01Z\"}}}"
+	},
+	{
+		"username": "JeebsM",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-10-27T13:03:42Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2015-10-27T13:03:42Z\"}}}"
+	},
+	{
+		"username": "Jeff-Lewis",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-04-27T02:32:48Z\",\"pushedAt\":\"2016-04-26T17:36:27Z\",\"updatedAt\":\"2016-04-27T02:32:49Z\"}}}"
+	},
+	{
+		"username": "jesusolmossanchez",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-07-14T13:49:42Z\",\"pushedAt\":\"2016-06-29T14:21:36Z\",\"updatedAt\":\"2016-07-14T13:49:43Z\"}}}"
+	},
+	{
+		"username": "jgabriellima",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-27T00:37:51Z\",\"pushedAt\":\"2016-01-19T10:26:38Z\",\"updatedAt\":\"2016-01-27T00:37:52Z\"}}}"
+	},
+	{
+		"username": "jhamPac",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-06T19:24:25Z\",\"pushedAt\":\"2017-12-29T05:31:43Z\",\"updatedAt\":\"2018-01-06T19:24:27Z\"}}}"
+	},
+	{
+		"username": "jhermsmeier",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-11-03T13:37:44Z\",\"pushedAt\":\"2016-11-03T13:38:05Z\",\"updatedAt\":\"2016-11-03T13:37:45Z\"}}}"
+	},
+	{
+		"username": "Johanna12",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-03-20T07:44:22Z\",\"pushedAt\":\"2018-03-16T23:19:35Z\",\"updatedAt\":\"2018-03-20T07:44:24Z\"}}}"
+	},
+	{
+		"username": "johanpoirier",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-02-18T09:30:31Z\",\"pushedAt\":\"2014-02-18T17:24:34Z\",\"updatedAt\":\"2016-10-16T01:09:59Z\"}}}"
+	},
+	{
+		"username": "Johnph0387",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-19T18:17:57Z\",\"pushedAt\":\"2018-01-18T04:28:24Z\",\"updatedAt\":\"2018-01-19T18:17:59Z\"}}}"
+	},
+	{
+		"username": "joshrouwhorst",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-24T18:34:35Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2014-07-23T16:18:28Z\"}}}"
+	},
+	{
+		"username": "CesarAp",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-04-05T14:39:23Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2018-04-05T14:39:25Z\"}}}"
+	},
+	{
+		"username": "crislanio",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-04-26T04:50:26Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2015-04-26T04:50:28Z\"}}}"
+	},
+	{
+		"username": "Developerworld-me",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-04-20T13:21:57Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2018-04-20T13:22:00Z\"}}}"
+	},
+	{
+		"username": "jbarrero22",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-11T21:35:18Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2014-07-23T16:18:28Z\"}}}"
+	},
+	{
+		"username": "jotarios",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-14T00:24:49Z\",\"pushedAt\":\"2016-02-14T16:12:15Z\",\"updatedAt\":\"2016-03-14T00:24:50Z\"}}}"
+	},
+	{
+		"username": "jreina",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-05-30T01:53:55Z\",\"pushedAt\":\"2018-05-22T18:18:01Z\",\"updatedAt\":\"2018-05-30T01:53:57Z\"}}}"
+	},
+	{
+		"username": "JuhQ",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-04-26T17:22:02Z\",\"pushedAt\":\"2016-05-17T19:10:55Z\",\"updatedAt\":\"2016-04-26T17:22:03Z\"}}}"
+	},
+	{
+		"username": "julien-c",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-03-16T18:07:51Z\",\"pushedAt\":\"2015-03-16T18:09:21Z\",\"updatedAt\":\"2015-03-16T18:07:52Z\"}}}"
+	},
+	{
+		"username": "JulienSol",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-06-03T15:36:41Z\",\"pushedAt\":\"2017-06-06T16:33:15Z\",\"updatedAt\":\"2017-06-03T15:36:43Z\"}}}"
+	},
+	{
+		"username": "edgareler",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-10-12T23:39:08Z\",\"pushedAt\":\"2017-10-13T00:00:12Z\",\"updatedAt\":\"2017-10-12T23:39:10Z\"}}}"
+	},
+	{
+		"username": "justim",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-24T16:47:27Z\",\"pushedAt\":\"2014-06-24T17:40:55Z\",\"updatedAt\":\"2014-06-24T17:40:55Z\"}}}"
+	},
+	{
+		"username": "justinpage",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-06T23:37:13Z\",\"pushedAt\":\"2015-01-09T00:29:51Z\",\"updatedAt\":\"2015-01-09T00:29:52Z\"}}}"
+	},
+	{
+		"username": "k0t0fey",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-13T15:58:42Z\",\"pushedAt\":\"2015-01-13T16:02:34Z\",\"updatedAt\":\"2015-01-13T15:58:43Z\"}}}"
+	},
+	{
+		"username": "k1koyama",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-29T14:24:14Z\",\"pushedAt\":\"2017-04-29T14:35:50Z\",\"updatedAt\":\"2017-04-29T14:24:16Z\"}}}"
+	},
+	{
+		"username": "KarthikGangadhar",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-11-30T09:26:57Z\",\"pushedAt\":\"2017-11-30T06:17:29Z\",\"updatedAt\":\"2017-11-30T09:26:59Z\"}}}"
+	},
+	{
+		"username": "kevindhawkins",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-06-24T14:43:28Z\",\"pushedAt\":\"2016-06-08T04:51:52Z\",\"updatedAt\":\"2016-06-24T14:43:29Z\"}}}"
+	},
+	{
+		"username": "kindasimple",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-05-03T20:20:19Z\",\"pushedAt\":\"2017-05-03T13:06:43Z\",\"updatedAt\":\"2017-05-03T20:20:20Z\"}}}"
+	},
+	{
+		"username": "kjonathante",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-07-25T15:45:17Z\",\"pushedAt\":\"2018-07-23T21:22:53Z\",\"updatedAt\":\"2018-07-25T15:45:20Z\"}}}"
+	},
+	{
+		"username": "KorokkeCurry",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-30T09:30:06Z\",\"pushedAt\":\"2016-08-29T04:36:51Z\",\"updatedAt\":\"2016-08-30T09:30:07Z\"}}}"
+	},
+	{
+		"username": "krizka",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-03T09:39:48Z\",\"pushedAt\":\"2017-12-29T05:31:43Z\",\"updatedAt\":\"2018-01-03T09:39:50Z\"}}}"
+	},
+	{
+		"username": "kuldeepkeshwar",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-23T03:15:35Z\",\"pushedAt\":\"2017-04-16T18:25:46Z\",\"updatedAt\":\"2017-04-23T03:15:37Z\"}}}"
+	},
+	{
+		"username": "kvillaville",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-21T16:44:50Z\",\"pushedAt\":\"2017-04-16T18:25:46Z\",\"updatedAt\":\"2017-04-21T16:44:52Z\"}}}"
+	},
+	{
+		"username": "lamkeewei",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-11-17T07:42:06Z\",\"pushedAt\":\"2014-11-17T07:43:40Z\",\"updatedAt\":\"2014-11-17T07:42:06Z\"}}}"
+	},
+	{
+		"username": "Lassieena",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2019-01-29T12:49:20Z\",\"pushedAt\":\"2019-01-18T21:16:07Z\",\"updatedAt\":\"2019-01-29T12:49:22Z\"}}}"
+	},
+	{
+		"username": "le1tuan",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-09-28T08:28:11Z\",\"pushedAt\":\"2017-09-28T08:44:11Z\",\"updatedAt\":\"2017-09-28T08:28:12Z\"}}}"
+	},
+	{
+		"username": "leewaygroups",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-11-08T19:00:04Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2015-11-08T19:00:05Z\"}}}"
+	},
+	{
+		"username": "locurasleal",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-10-15T19:59:06Z\",\"pushedAt\":\"2018-10-09T04:57:51Z\",\"updatedAt\":\"2018-10-15T19:59:09Z\"}}}"
+	},
+	{
+		"username": "lukaswhite",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-10-26T17:50:30Z\",\"pushedAt\":\"2014-11-23T11:06:07Z\",\"updatedAt\":\"2014-10-26T18:19:05Z\"}}}"
+	},
+	{
+		"username": "lyzadanger",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-16T17:35:21Z\",\"pushedAt\":\"2016-08-16T17:45:12Z\",\"updatedAt\":\"2016-12-26T04:33:01Z\"}}}"
+	},
+	{
+		"username": "ManiacTwister",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-03T00:35:24Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2014-08-31T02:04:26Z\"}}}"
+	},
+	{
+		"username": "markmachine",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-10-17T16:03:33Z\",\"pushedAt\":\"2018-10-09T04:57:51Z\",\"updatedAt\":\"2018-10-17T16:03:36Z\"}}}"
+	},
+	{
+		"username": "mavdi",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-01T10:20:29Z\",\"pushedAt\":\"2013-06-12T03:34:30Z\",\"updatedAt\":\"2014-02-04T16:38:31Z\"}}}"
+	},
+	{
+		"username": "snorpey",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-04T20:53:36Z\",\"pushedAt\":\"2013-07-04T20:55:11Z\",\"updatedAt\":\"2013-07-04T21:00:05Z\"}}}"
+	},
+	{
+		"username": "mb0017",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-26T07:23:10Z\",\"pushedAt\":\"2016-02-14T16:12:15Z\",\"updatedAt\":\"2016-03-26T07:23:10Z\"}}}"
+	},
+	{
+		"username": "mbejda",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-09-18T00:47:24Z\",\"pushedAt\":\"2018-09-18T01:08:11Z\",\"updatedAt\":\"2018-09-18T01:08:12Z\"}}}"
+	},
+	{
+		"username": "medhir",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-07-10T21:57:24Z\",\"pushedAt\":\"2015-07-10T21:58:40Z\",\"updatedAt\":\"2015-07-10T21:57:25Z\"}}}"
+	},
+	{
+		"username": "meganecomputer",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-29T06:29:09Z\",\"pushedAt\":\"2016-08-29T04:36:51Z\",\"updatedAt\":\"2016-08-29T06:29:10Z\"}}}"
+	},
+	{
+		"username": "mezga0153",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-06-08T12:43:54Z\",\"pushedAt\":\"2018-06-08T13:24:10Z\",\"updatedAt\":\"2018-06-08T13:24:13Z\"}}}"
+	},
+	{
+		"username": "michaelerobertsjr",
+		"repository": "node-twitter-1",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-18T22:01:13Z\",\"pushedAt\":\"2015-06-11T12:31:32Z\",\"updatedAt\":\"2015-06-18T22:01:13Z\"}}}"
+	},
+	{
+		"username": "MiguelAlcaino",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-02-20T18:08:40Z\",\"pushedAt\":\"2018-02-17T00:28:12Z\",\"updatedAt\":\"2018-02-20T18:08:42Z\"}}}"
+	},
+	{
+		"username": "mikankari",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-09-20T15:05:24Z\",\"pushedAt\":\"2018-09-14T20:03:05Z\",\"updatedAt\":\"2018-09-20T15:05:27Z\"}}}"
+	},
+	{
+		"username": "ming-soon",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-02-27T00:22:49Z\",\"pushedAt\":\"2017-02-27T02:00:32Z\",\"updatedAt\":\"2017-02-27T00:22:51Z\"}}}"
+	},
+	{
+		"username": "mperez4",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-02-18T23:14:28Z\",\"pushedAt\":\"2014-01-31T17:29:08Z\",\"updatedAt\":\"2014-02-18T23:14:29Z\"}}}"
+	},
+	{
+		"username": "mpyw-forks",
+		"repository": "node-twitter-promise",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-02-08T14:47:56Z\",\"pushedAt\":\"2016-02-08T15:07:01Z\",\"updatedAt\":\"2018-10-23T10:13:40Z\"}}}"
+	},
+	{
+		"username": "msmuenchen",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-12T12:23:25Z\",\"pushedAt\":\"2016-08-12T12:25:46Z\",\"updatedAt\":\"2016-08-12T12:23:27Z\"}}}"
+	},
+	{
+		"username": "mulderp",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-19T20:16:50Z\",\"pushedAt\":\"2014-05-19T20:26:00Z\",\"updatedAt\":\"2014-05-19T20:28:15Z\"}}}"
+	},
+	{
+		"username": "myoupub",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-10-17T14:35:25Z\",\"pushedAt\":\"2015-10-17T14:40:45Z\",\"updatedAt\":\"2015-10-17T14:35:27Z\"}}}"
+	},
+	{
+		"username": "NajeebMohammed",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-08-23T14:36:09Z\",\"pushedAt\":\"2015-08-01T22:12:48Z\",\"updatedAt\":\"2015-08-23T14:36:09Z\"}}}"
+	},
+	{
+		"username": "neeeeds",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-07-30T13:29:24Z\",\"pushedAt\":\"2016-06-29T14:21:36Z\",\"updatedAt\":\"2016-07-30T13:29:25Z\"}}}"
+	},
+	{
+		"username": "nineten",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-12-29T04:37:47Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2015-12-29T04:37:48Z\"}}}"
+	},
+	{
+		"username": "nnevala",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-08T16:16:49Z\",\"pushedAt\":\"2016-03-08T16:18:34Z\",\"updatedAt\":\"2016-03-08T16:16:50Z\"}}}"
+	},
+	{
+		"username": "notsunohito",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-08-30T03:47:47Z\",\"pushedAt\":\"2015-08-01T22:12:48Z\",\"updatedAt\":\"2015-08-30T03:47:47Z\"}}}"
+	},
+	{
+		"username": "omar1109",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-27T03:33:34Z\",\"pushedAt\":\"2014-05-16T00:40:37Z\",\"updatedAt\":\"2014-05-27T03:33:34Z\"}}}"
+	},
+	{
+		"username": "orchestor",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-07T00:47:09Z\",\"pushedAt\":\"2017-04-01T21:52:21Z\",\"updatedAt\":\"2017-04-07T00:47:11Z\"}}}"
+	},
+	{
+		"username": "ozlevka",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-31T15:15:16Z\",\"pushedAt\":\"2015-02-22T14:27:08Z\",\"updatedAt\":\"2015-02-22T14:27:09Z\"}}}"
+	},
+	{
+		"username": "P-WM",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-09-01T14:58:40Z\",\"pushedAt\":\"2017-09-01T15:13:02Z\",\"updatedAt\":\"2017-09-01T14:58:41Z\"}}}"
+	},
+	{
+		"username": "palanik",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-09T22:19:44Z\",\"pushedAt\":\"2015-06-09T22:26:20Z\",\"updatedAt\":\"2015-06-09T22:19:44Z\"}}}"
+	},
+	{
+		"username": "peterbehr",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-02-22T06:32:52Z\",\"pushedAt\":\"2017-02-20T16:36:08Z\",\"updatedAt\":\"2017-02-22T06:32:54Z\"}}}"
+	},
+	{
+		"username": "peterpme",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-02-16T05:18:36Z\",\"pushedAt\":\"2018-02-14T01:03:48Z\",\"updatedAt\":\"2018-02-16T05:18:38Z\"}}}"
+	},
+	{
+		"username": "PeterRyder",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-04-26T21:59:56Z\",\"pushedAt\":\"2016-04-26T22:01:27Z\",\"updatedAt\":\"2016-04-26T21:59:57Z\"}}}"
+	},
+	{
+		"username": "petitchevalroux",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-03-31T13:20:38Z\",\"pushedAt\":\"2016-05-31T13:08:49Z\",\"updatedAt\":\"2016-04-19T11:13:22Z\"}}}"
+	},
+	{
+		"username": "Pezmc",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-25T09:04:13Z\",\"pushedAt\":\"2014-05-25T09:10:18Z\",\"updatedAt\":\"2014-05-25T09:10:18Z\"}}}"
+	},
+	{
+		"username": "probil",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-11-04T12:11:17Z\",\"pushedAt\":\"2015-11-06T10:49:54Z\",\"updatedAt\":\"2015-11-04T12:11:18Z\"}}}"
+	},
+	{
+		"username": "Qix-",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-19T22:27:42Z\",\"pushedAt\":\"2014-05-19T22:48:01Z\",\"updatedAt\":\"2014-05-19T22:50:01Z\"}}}"
+	},
+	{
+		"username": "ra100",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-08-06T12:10:05Z\",\"pushedAt\":\"2017-10-11T18:46:22Z\",\"updatedAt\":\"2017-08-06T12:10:07Z\"}}}"
+	},
+	{
+		"username": "Rabitslife",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-10-25T13:49:23Z\",\"pushedAt\":\"2013-10-23T18:01:38Z\",\"updatedAt\":\"2013-10-25T13:49:23Z\"}}}"
+	},
+	{
+		"username": "ralluri",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-05-10T10:05:19Z\",\"pushedAt\":\"2015-04-21T12:44:22Z\",\"updatedAt\":\"2015-05-10T10:05:21Z\"}}}"
+	},
+	{
+		"username": "ralucas",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-11T00:34:11Z\",\"pushedAt\":\"2016-01-11T00:34:56Z\",\"updatedAt\":\"2016-01-11T00:34:12Z\"}}}"
+	},
+	{
+		"username": "RayLLiu",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-05-26T19:15:00Z\",\"pushedAt\":\"2017-05-24T16:54:50Z\",\"updatedAt\":\"2017-05-26T19:15:02Z\"}}}"
+	},
+	{
+		"username": "rbramwell",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-08-23T20:48:34Z\",\"pushedAt\":\"2015-08-01T22:12:48Z\",\"updatedAt\":\"2015-08-23T20:48:35Z\"}}}"
+	},
+	{
+		"username": "reconbot",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-13T19:09:57Z\",\"pushedAt\":\"2018-04-29T08:53:00Z\",\"updatedAt\":\"2018-12-19T21:36:16Z\"}}}"
+	},
+	{
+		"username": "renaldy84",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-04T06:27:53Z\",\"pushedAt\":\"2013-07-18T15:43:17Z\",\"updatedAt\":\"2013-08-04T06:27:56Z\"}}}"
+	},
+	{
+		"username": "RGVylar",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-04-13T18:16:25Z\",\"pushedAt\":\"2018-04-13T01:23:11Z\",\"updatedAt\":\"2018-04-13T18:16:28Z\"}}}"
+	},
+	{
+		"username": "rj76",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-30T07:40:17Z\",\"pushedAt\":\"2014-09-30T12:19:13Z\",\"updatedAt\":\"2014-09-30T07:47:00Z\"}}}"
+	},
+	{
+		"username": "rneilson",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-08-15T07:10:02Z\",\"pushedAt\":\"2016-12-11T22:26:28Z\",\"updatedAt\":\"2016-12-11T16:30:09Z\"}}}"
+	},
+	{
+		"username": "alisanyilmaz",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-10-08T09:20:57Z\",\"pushedAt\":\"2016-10-08T09:27:26Z\",\"updatedAt\":\"2016-10-08T09:42:42Z\"}}}"
+	},
+	{
+		"username": "RobertoMalatesta",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-10-31T15:33:16Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2015-10-31T15:33:17Z\"}}}"
+	},
+	{
+		"username": "rodmaykel",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-29T08:09:58Z\",\"pushedAt\":\"2013-11-15T19:12:38Z\",\"updatedAt\":\"2013-11-29T08:09:58Z\"}}}"
+	},
+	{
+		"username": "ryangiglio",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-12-03T04:48:40Z\",\"pushedAt\":\"2017-12-03T04:56:52Z\",\"updatedAt\":\"2017-12-03T04:48:42Z\"}}}"
+	},
+	{
+		"username": "samdec",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-08T23:42:02Z\",\"pushedAt\":\"2015-09-08T22:20:53Z\",\"updatedAt\":\"2015-09-08T23:42:02Z\"}}}"
+	},
+	{
+		"username": "sameerkarim",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-20T08:13:18Z\",\"pushedAt\":\"2014-09-09T17:13:07Z\",\"updatedAt\":\"2014-09-19T05:16:27Z\"}}}"
+	},
+	{
+		"username": "samlbest",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-20T14:10:25Z\",\"pushedAt\":\"2015-07-01T03:05:10Z\",\"updatedAt\":\"2015-06-20T14:10:25Z\"}}}"
+	},
+	{
+		"username": "sanchitgera",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-02-28T20:24:09Z\",\"pushedAt\":\"2016-02-14T16:12:15Z\",\"updatedAt\":\"2016-02-28T20:24:10Z\"}}}"
+	},
+	{
+		"username": "satsukitv",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-31T07:01:42Z\",\"pushedAt\":\"2015-01-31T07:06:30Z\",\"updatedAt\":\"2015-01-31T07:06:30Z\"}}}"
+	},
+	{
+		"username": "satyammohan",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-07-13T07:38:43Z\",\"pushedAt\":\"2018-07-10T15:58:16Z\",\"updatedAt\":\"2018-07-13T07:38:45Z\"}}}"
+	},
+	{
+		"username": "scup",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-10-08T21:48:18Z\",\"pushedAt\":\"2015-10-08T21:54:24Z\",\"updatedAt\":\"2015-10-08T21:48:42Z\"}}}"
+	},
+	{
+		"username": "sedge",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-05-16T02:14:07Z\",\"pushedAt\":\"2014-08-23T14:21:17Z\",\"updatedAt\":\"2014-05-16T02:14:07Z\"}}}"
+	},
+	{
+		"username": "SeunghunSunmoonLee",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-12-26T00:49:30Z\",\"pushedAt\":\"2016-12-14T19:24:48Z\",\"updatedAt\":\"2016-12-26T00:49:35Z\"}}}"
+	},
+	{
+		"username": "SirDeadlystrike",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-12-11T03:19:16Z\",\"pushedAt\":\"2017-12-11T03:19:57Z\",\"updatedAt\":\"2017-12-11T03:19:18Z\"}}}"
+	},
+	{
+		"username": "SlimBN",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-21T08:12:46Z\",\"pushedAt\":\"2014-09-09T17:13:07Z\",\"updatedAt\":\"2014-09-21T08:12:43Z\"}}}"
+	},
+	{
+		"username": "stephenkeep",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-19T13:33:05Z\",\"pushedAt\":\"2016-01-19T10:26:38Z\",\"updatedAt\":\"2016-01-19T13:33:05Z\"}}}"
+	},
+	{
+		"username": "susisu",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-21T09:23:50Z\",\"pushedAt\":\"2015-01-21T09:56:26Z\",\"updatedAt\":\"2015-01-21T09:56:26Z\"}}}"
+	},
+	{
+		"username": "syzer",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-21T16:26:26Z\",\"pushedAt\":\"2015-06-20T14:37:19Z\",\"updatedAt\":\"2015-06-21T16:26:26Z\"}}}"
+	},
+	{
+		"username": "t100n",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-11-25T14:46:24Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2015-11-25T14:46:25Z\"}}}"
+	},
+	{
+		"username": "taijipp",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-09T15:43:58Z\",\"pushedAt\":\"2014-03-17T14:08:32Z\",\"updatedAt\":\"2014-03-17T14:08:33Z\"}}}"
+	},
+	{
+		"username": "tbrd",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-02-25T09:17:16Z\",\"pushedAt\":\"2014-02-25T09:36:15Z\",\"updatedAt\":\"2014-03-05T14:05:26Z\"}}}"
+	},
+	{
+		"username": "TDASinternal",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-10-12T15:05:30Z\",\"pushedAt\":\"2016-10-12T15:59:57Z\",\"updatedAt\":\"2016-10-12T15:05:31Z\"}}}"
+	},
+	{
+		"username": "tea-line",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-05-09T12:41:26Z\",\"pushedAt\":\"2017-05-03T13:06:43Z\",\"updatedAt\":\"2017-05-09T12:41:28Z\"}}}"
+	},
+	{
+		"username": "teifip",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-01-08T22:56:32Z\",\"pushedAt\":\"2018-01-08T23:03:50Z\",\"updatedAt\":\"2018-01-08T22:56:34Z\"}}}"
+	},
+	{
+		"username": "thdtjsdn",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-17T09:46:11Z\",\"pushedAt\":\"2015-06-11T12:31:32Z\",\"updatedAt\":\"2015-06-17T09:46:12Z\"}}}"
+	},
+	{
+		"username": "ThonyFD",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-01-09T19:35:32Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2016-01-09T19:35:32Z\"}}}"
+	},
+	{
+		"username": "tohmjudson",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-08-31T18:16:37Z\",\"pushedAt\":\"2015-08-01T22:12:48Z\",\"updatedAt\":\"2015-08-31T18:16:37Z\"}}}"
+	},
+	{
+		"username": "tylerbuchea",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-03-16T00:12:05Z\",\"pushedAt\":\"2018-03-16T00:16:30Z\",\"updatedAt\":\"2018-03-16T00:16:31Z\"}}}"
+	},
+	{
+		"username": "tyolab",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-06-15T04:06:10Z\",\"pushedAt\":\"2018-06-14T00:27:59Z\",\"updatedAt\":\"2018-06-15T04:06:12Z\"}}}"
+	},
+	{
+		"username": "ulgg",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-06T23:01:58Z\",\"pushedAt\":\"2016-04-26T17:36:27Z\",\"updatedAt\":\"2016-05-06T23:01:59Z\"}}}"
+	},
+	{
+		"username": "ulisesrmzroche",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-18T19:40:16Z\",\"pushedAt\":\"2013-11-18T19:46:22Z\",\"updatedAt\":\"2013-11-18T19:46:25Z\"}}}"
+	},
+	{
+		"username": "usrlocalts-zz",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-06-19T17:03:39Z\",\"pushedAt\":\"2015-06-11T12:31:32Z\",\"updatedAt\":\"2015-06-19T17:03:40Z\"}}}"
+	},
+	{
+		"username": "usrlocalts",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-02-11T18:09:33Z\",\"pushedAt\":\"2015-06-11T12:31:32Z\",\"updatedAt\":\"2017-02-11T18:09:35Z\"}}}"
+	},
+	{
+		"username": "utgwkk",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-12-16T13:34:39Z\",\"pushedAt\":\"2016-02-14T16:10:38Z\",\"updatedAt\":\"2016-02-14T16:10:39Z\"}}}"
+	},
+	{
+		"username": "Vladinho10",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-10-20T15:11:32Z\",\"pushedAt\":\"2018-10-09T04:57:51Z\",\"updatedAt\":\"2018-10-20T15:11:34Z\"}}}"
+	},
+	{
+		"username": "walkure",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-10-29T10:53:56Z\",\"pushedAt\":\"2015-10-29T11:01:13Z\",\"updatedAt\":\"2015-10-29T10:53:57Z\"}}}"
+	},
+	{
+		"username": "warseph",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-03-25T19:27:16Z\",\"pushedAt\":\"2014-03-25T19:39:38Z\",\"updatedAt\":\"2014-03-25T19:39:38Z\"}}}"
+	},
+	{
+		"username": "whats-up",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-09-09T13:36:23Z\",\"pushedAt\":\"2014-09-07T23:26:55Z\",\"updatedAt\":\"2014-09-08T12:56:51Z\"}}}"
+	},
+	{
+		"username": "whoinlee",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-04-23T16:16:02Z\",\"pushedAt\":\"2016-03-31T16:14:08Z\",\"updatedAt\":\"2016-04-23T16:16:03Z\"}}}"
+	},
+	{
+		"username": "willclarktech",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-04-16T17:53:51Z\",\"pushedAt\":\"2017-04-16T18:21:11Z\",\"updatedAt\":\"2017-04-16T17:53:52Z\"}}}"
+	},
+	{
+		"username": "y-ich",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-06-08T04:00:25Z\",\"pushedAt\":\"2018-11-30T02:37:58Z\",\"updatedAt\":\"2018-11-30T02:38:00Z\"}}}"
+	},
+	{
+		"username": "yiannip",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-09-24T06:24:30Z\",\"pushedAt\":\"2013-09-23T13:59:26Z\",\"updatedAt\":\"2013-09-24T06:24:33Z\"}}}"
+	},
+	{
+		"username": "Yogeshkad",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-02-26T20:36:08Z\",\"pushedAt\":\"2015-01-25T23:41:50Z\",\"updatedAt\":\"2015-02-26T20:36:09Z\"}}}"
+	},
+	{
+		"username": "YoruNoHikage",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-09-10T11:29:52Z\",\"pushedAt\":\"2016-09-10T11:31:17Z\",\"updatedAt\":\"2016-09-10T11:29:53Z\"}}}"
+	},
+	{
+		"username": "yoyohashi",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-13T08:44:10Z\",\"pushedAt\":\"2015-01-09T00:56:01Z\",\"updatedAt\":\"2015-01-13T08:44:10Z\"}}}"
+	},
+	{
+		"username": "YumnaBatool",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-11-12T11:30:13Z\",\"pushedAt\":\"2015-10-19T08:35:57Z\",\"updatedAt\":\"2015-11-12T11:30:15Z\"}}}"
+	},
+	{
+		"username": "zackiles",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-08-26T18:07:42Z\",\"pushedAt\":\"2015-08-01T22:12:48Z\",\"updatedAt\":\"2015-08-26T18:07:42Z\"}}}"
+	},
+	{
+		"username": "zalmonkung",
+		"repository": "node-twitter-1",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-07-16T18:54:06Z\",\"pushedAt\":\"2018-07-10T15:58:16Z\",\"updatedAt\":\"2018-07-16T18:54:09Z\"}}}"
+	},
+	{
+		"username": "zed7576",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2018-03-21T04:35:16Z\",\"pushedAt\":\"2018-03-16T23:19:35Z\",\"updatedAt\":\"2018-03-21T04:35:18Z\"}}}"
+	},
+	{
+		"username": "zilm13",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-30T09:21:31Z\",\"pushedAt\":\"2014-06-30T09:24:39Z\",\"updatedAt\":\"2014-06-25T12:56:27Z\"}}}"
+	},
+	{
+		"username": "zombieleet",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-10-13T23:45:44Z\",\"pushedAt\":\"2017-10-13T23:53:34Z\",\"updatedAt\":\"2017-10-13T23:45:46Z\"}}}"
+	},
+	{
+		"username": "dinedal",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-27T03:19:19Z\",\"pushedAt\":\"2011-10-27T03:30:41Z\",\"updatedAt\":\"2013-01-04T12:39:37Z\"}}}"
+	},
+	{
+		"username": "dnathe4th",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-05T07:42:15Z\",\"pushedAt\":\"2011-10-11T02:51:46Z\",\"updatedAt\":\"2013-01-04T19:29:43Z\"}}}"
+	},
+	{
+		"username": "ecdeveloper",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-20T09:57:39Z\",\"pushedAt\":\"2013-06-20T10:01:18Z\",\"updatedAt\":\"2013-12-11T08:02:12Z\"}}}"
+	},
+	{
+		"username": "ecemb",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-06-05T11:07:37Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-01-09T12:45:59Z\"}}}"
+	},
+	{
+		"username": "emkay",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-02-16T17:52:49Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-02-16T17:52:50Z\"}}}"
+	},
+	{
+		"username": "gasi",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-05-06T07:38:19Z\",\"pushedAt\":\"2015-09-21T23:41:23Z\",\"updatedAt\":\"2013-01-02T01:47:18Z\"}}}"
+	},
+	{
+		"username": "gotomypc",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-01-06T00:31:29Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-10-31T06:57:44Z\"}}}"
+	},
+	{
+		"username": "iapain",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-26T08:04:36Z\",\"pushedAt\":\"2011-10-11T02:51:46Z\",\"updatedAt\":\"2013-01-04T12:30:17Z\"}}}"
+	},
+	{
+		"username": "irfan",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-12T23:12:33Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-07-12T23:12:33Z\"}}}"
+	},
+	{
+		"username": "issackelly",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-11T02:50:18Z\",\"pushedAt\":\"2011-10-11T02:51:28Z\",\"updatedAt\":\"2017-05-16T03:52:22Z\"}}}"
+	},
+	{
+		"username": "tyler46",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-10T11:42:24Z\",\"pushedAt\":\"2011-10-11T02:51:28Z\",\"updatedAt\":\"2013-01-12T14:46:13Z\"}}}"
+	},
+	{
+		"username": "jblanche",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-30T13:39:08Z\",\"pushedAt\":\"2011-09-30T13:54:13Z\",\"updatedAt\":\"2013-01-04T08:29:21Z\"}}}"
+	},
+	{
+		"username": "jgallen23",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-03-24T06:53:56Z\",\"pushedAt\":\"2011-11-09T02:21:22Z\",\"updatedAt\":\"2013-09-22T23:14:40Z\"}}}"
+	},
+	{
+		"username": "jshorwitz",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-08-28T00:16:23Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-08-28T00:16:24Z\"}}}"
+	},
+	{
+		"username": "kyroskoh",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-11-06T02:56:08Z\",\"pushedAt\":\"2015-04-19T18:13:55Z\",\"updatedAt\":\"2015-11-06T02:56:12Z\"}}}"
+	},
+	{
+		"username": "lolenko",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-10T12:24:03Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-06-23T00:51:22Z\"}}}"
+	},
+	{
+		"username": "lyxsus",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-29T15:01:47Z\",\"pushedAt\":\"2013-08-15T13:40:00Z\",\"updatedAt\":\"2013-08-15T13:40:08Z\"}}}"
+	},
+	{
+		"username": "mamzellejuu",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-05-30T14:46:54Z\",\"pushedAt\":\"2012-05-30T16:18:56Z\",\"updatedAt\":\"2013-01-09T10:36:02Z\"}}}"
+	},
+	{
+		"username": "marto1689",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-07-26T17:08:13Z\",\"pushedAt\":\"2018-02-08T17:52:01Z\",\"updatedAt\":\"2017-07-26T17:08:15Z\"}}}"
+	},
+	{
+		"username": "michielvandergeest",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2017-07-25T01:32:18Z\",\"pushedAt\":\"2015-04-19T18:13:55Z\",\"updatedAt\":\"2017-07-25T01:32:20Z\"}}}"
+	},
+	{
+		"username": "mikerudolph",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-29T19:05:42Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-07-29T19:03:58Z\"}}}"
+	},
+	{
+		"username": "mmichaud93",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-21T18:59:23Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-06-23T00:51:22Z\"}}}"
+	},
+	{
+		"username": "NickTaporuk",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-01-03T18:10:32Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2015-01-03T18:10:33Z\"}}}"
+	},
+	{
+		"username": "nidin",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-15T09:55:51Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-06-15T09:55:51Z\"}}}"
+	},
+	{
+		"username": "oesmith",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-05-06T20:10:36Z\",\"pushedAt\":\"2011-10-02T19:31:49Z\",\"updatedAt\":\"2013-10-04T09:48:12Z\"}}}"
+	},
+	{
+		"username": "patoigz",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-07-28T22:00:14Z\",\"pushedAt\":\"2015-04-19T18:13:55Z\",\"updatedAt\":\"2015-07-28T22:00:15Z\"}}}"
+	},
+	{
+		"username": "peterbraden",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-02-09T05:28:11Z\",\"pushedAt\":\"2011-02-08T06:27:05Z\",\"updatedAt\":\"2012-12-18T00:08:24Z\"}}}"
+	},
+	{
+		"username": "pgolm",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-06-26T05:30:58Z\",\"pushedAt\":\"2013-06-26T05:36:46Z\",\"updatedAt\":\"2013-06-26T12:49:51Z\"}}}"
+	},
+	{
+		"username": "regadas",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-09T23:16:26Z\",\"pushedAt\":\"2011-11-09T23:19:55Z\",\"updatedAt\":\"2013-01-04T14:52:43Z\"}}}"
+	},
+	{
+		"username": "Roach",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-07-02T00:19:04Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-09-05T23:39:51Z\"}}}"
+	},
+	{
+		"username": "RyotaSugawara",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-18T17:23:09Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-06-18T17:23:10Z\"}}}"
+	},
+	{
+		"username": "Sahadar",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-12-11T08:58:29Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-01-13T14:46:03Z\"}}}"
+	},
+	{
+		"username": "sambarboza",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-22T18:39:44Z\",\"pushedAt\":\"2011-11-22T18:41:32Z\",\"updatedAt\":\"2013-01-04T17:08:59Z\"}}}"
+	},
+	{
+		"username": "skddc",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-03-14T00:36:32Z\",\"pushedAt\":\"2011-03-06T10:04:32Z\",\"updatedAt\":\"2012-12-25T09:37:03Z\"}}}"
+	},
+	{
+		"username": "stevenewey",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-06T17:36:59Z\",\"pushedAt\":\"2011-10-06T16:23:40Z\",\"updatedAt\":\"2016-06-15T12:50:41Z\"}}}"
+	},
+	{
+		"username": "sushi23",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-05-05T04:57:32Z\",\"pushedAt\":\"2015-04-19T18:13:55Z\",\"updatedAt\":\"2016-05-05T04:57:33Z\"}}}"
+	},
+	{
+		"username": "sydlawrence",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-23T19:50:52Z\",\"pushedAt\":\"2011-11-16T03:49:44Z\",\"updatedAt\":\"2016-02-23T03:22:45Z\"}}}"
+	},
+	{
+		"username": "syntactice",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-23T16:03:16Z\",\"pushedAt\":\"2011-10-11T02:51:46Z\",\"updatedAt\":\"2013-01-04T23:11:32Z\"}}}"
+	},
+	{
+		"username": "taariq",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-06-30T22:08:36Z\",\"pushedAt\":\"2011-05-08T05:45:12Z\",\"updatedAt\":\"2013-12-29T21:30:41Z\"}}}"
+	},
+	{
+		"username": "tedsunnyday",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-02-07T08:26:29Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-02-07T08:26:29Z\"}}}"
+	},
+	{
+		"username": "travispcook",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2013-11-06T03:16:30Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-11-06T03:16:30Z\"}}}"
+	},
+	{
+		"username": "valiton",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-07-04T11:16:36Z\",\"pushedAt\":\"2012-07-04T11:19:53Z\",\"updatedAt\":\"2013-01-10T23:31:38Z\"}}}"
+	},
+	{
+		"username": "mkr-valiton",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-07-04T11:17:56Z\",\"pushedAt\":\"2012-07-04T11:18:13Z\",\"updatedAt\":\"2013-01-10T23:31:40Z\"}}}"
+	},
+	{
+		"username": "vindon",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-06-05T12:35:37Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-06-05T12:35:37Z\"}}}"
+	},
+	{
+		"username": "violenti",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-12-03T23:26:01Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-12-03T23:26:01Z\"}}}"
+	},
+	{
+		"username": "waterlou",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-26T11:11:49Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2013-01-12T20:31:33Z\"}}}"
+	},
+	{
+		"username": "yuta-inoue",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-07-05T09:19:55Z\",\"pushedAt\":\"2012-04-28T12:17:17Z\",\"updatedAt\":\"2014-06-23T00:51:22Z\"}}}"
+	},
+	{
+		"username": "zhm",
+		"repository": "node-twitter",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-06-19T00:01:48Z\",\"pushedAt\":\"2011-05-08T05:45:12Z\",\"updatedAt\":\"2013-01-03T17:48:42Z\"}}}"
+	},
+	{
+		"username": "jpoz",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-04-26T03:38:46Z\",\"pushedAt\":\"2010-04-26T03:50:42Z\",\"updatedAt\":\"2012-12-14T04:29:00Z\"}}}"
+	},
+	{
+		"username": "jsjohnst",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-09-19T01:30:03Z\",\"pushedAt\":\"2012-03-18T23:37:50Z\",\"updatedAt\":\"2016-07-01T17:35:17Z\"}}}"
+	},
+	{
+		"username": "Cloudxtreme",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2016-04-08T03:24:49Z\",\"pushedAt\":\"2012-03-18T23:37:50Z\",\"updatedAt\":\"2016-04-08T03:24:51Z\"}}}"
+	},
+	{
+		"username": "justshrey",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-12-16T16:42:15Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-04T21:53:41Z\"}}}"
+	},
+	{
+		"username": "kompozer",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-04-12T21:52:03Z\",\"pushedAt\":\"2010-04-26T06:57:14Z\",\"updatedAt\":\"2012-12-14T03:48:58Z\"}}}"
+	},
+	{
+		"username": "lahorichargha",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-23T00:43:04Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-04T17:12:35Z\"}}}"
+	},
+	{
+		"username": "leftieFriele",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-29T09:18:27Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-04T18:20:06Z\"}}}"
+	},
+	{
+		"username": "lgp36018",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-04-23T21:30:08Z\",\"pushedAt\":\"2015-04-19T18:12:48Z\",\"updatedAt\":\"2015-04-23T21:30:09Z\"}}}"
+	},
+	{
+		"username": "ronnie8743",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2015-09-10T12:18:58Z\",\"pushedAt\":\"2015-04-19T18:12:48Z\",\"updatedAt\":\"2015-09-10T12:18:58Z\"}}}"
+	},
+	{
+		"username": "madinina",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-10-18T10:19:05Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2013-01-12T17:44:22Z\"}}}"
+	},
+	{
+		"username": "mclifford82",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2014-01-15T09:03:19Z\",\"pushedAt\":\"2012-04-15T20:05:41Z\",\"updatedAt\":\"2014-01-15T09:03:20Z\"}}}"
+	},
+	{
+		"username": "mnutt",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-01-16T22:14:02Z\",\"pushedAt\":\"2012-01-16T22:14:29Z\",\"updatedAt\":\"2013-01-06T02:13:27Z\"}}}"
+	},
+	{
+		"username": "mtodd",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-06-07T08:03:40Z\",\"pushedAt\":\"2010-04-29T21:22:26Z\",\"updatedAt\":\"2014-05-20T07:44:06Z\"}}}"
+	},
+	{
+		"username": "neville-agius",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-24T09:03:42Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2013-01-04T07:26:56Z\"}}}"
+	},
+	{
+		"username": "nicolaschenet",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-04-05T18:41:56Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-08T13:54:50Z\"}}}"
+	},
+	{
+		"username": "paisible",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-03-03T14:55:09Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-08T02:07:40Z\"}}}"
+	},
+	{
+		"username": "phaza",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2010-05-27T18:08:25Z\",\"pushedAt\":\"2010-05-27T18:15:16Z\",\"updatedAt\":\"2015-11-05T08:48:27Z\"}}}"
+	},
+	{
+		"username": "ragefuljoe",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-07T18:18:46Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2014-05-12T15:21:35Z\"}}}"
+	},
+	{
+		"username": "soyrex",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-11T23:28:58Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-04T15:16:00Z\"}}}"
+	},
+	{
+		"username": "thurmda",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-06-08T17:53:20Z\",\"pushedAt\":\"2011-06-30T19:27:15Z\",\"updatedAt\":\"2013-01-03T16:06:58Z\"}}}"
+	},
+	{
+		"username": "tracend",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-10-14T05:31:55Z\",\"pushedAt\":\"2012-04-07T21:54:22Z\",\"updatedAt\":\"2013-10-10T22:32:11Z\"}}}"
+	},
+	{
+		"username": "TrafeX",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-11-22T14:56:55Z\",\"pushedAt\":\"2011-11-02T13:54:50Z\",\"updatedAt\":\"2013-01-04T17:06:36Z\"}}}"
+	},
+	{
+		"username": "trungngo",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2012-11-02T18:53:48Z\",\"pushedAt\":\"2012-11-02T18:57:30Z\",\"updatedAt\":\"2013-01-12T23:00:43Z\"}}}"
+	},
+	{
+		"username": "wangbus",
+		"repository": "twitter-node",
+		"stats": "{\"data\":{\"repository\":{\"createdAt\":\"2011-09-11T12:07:39Z\",\"pushedAt\":\"2011-01-03T18:58:09Z\",\"updatedAt\":\"2013-01-04T05:19:21Z\"}}}"
+	}
+]
